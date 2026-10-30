@@ -1,0 +1,1001 @@
+AttendanceID,StudentID,CourseID,Date,AttendanceStatus,FirstName,LastName,Gender,DateOfBirth,Major,GPA,CourseName,Department,Credits,Instructor,IsPresent
+1,1086,COURSE6,2022-06-07,Absent,Student86,Doe,Male,1993-11-21,Mathematics,3.8,Course 6,Computer Science,2,Instructor 6,False
+2,1197,COURSE32,2024-03-07,Present,Student197,Doe,Male,1995-06-13,Mathematics,2.34,Course 32,Computer Science,4,Instructor 32,True
+3,1320,COURSE29,2020-11-10,Present,Student320,Doe,Female,2004-01-07,Mathematics,3.87,Course 29,Mathematics,1,Instructor 29,True
+4,1327,COURSE32,2024-01-15,Present,Student327,Doe,Male,1998-12-27,Physics,3.67,Course 32,Computer Science,4,Instructor 32,True
+5,1055,COURSE42,2024-07-15,Present,Student55,Doe,Female,1999-06-24,Computer Science,2.1,Course 42,Biology,3,Instructor 42,True
+6,1262,COURSE19,2021-12-25,Present,Student262,Doe,Male,2004-08-22,Biology,2.93,Course 19,Biology,4,Instructor 19,True
+7,1084,COURSE14,2022-09-26,Absent,Student84,Doe,Female,2003-11-27,Mathematics,2.56,Course 14,Computer Science,4,Instructor 14,False
+8,1228,COURSE22,2023-12-17,Present,Student228,Doe,Male,1995-08-27,Physics,3.71,Course 22,Biology,2,Instructor 22,True
+9,1115,COURSE39,2024-12-03,Present,Student115,Doe,Female,1992-12-19,Physics,3.05,Course 39,Physics,2,Instructor 39,True
+10,1358,COURSE25,2021-03-14,Absent,Student358,Doe,Female,2000-04-22,Physics,2.85,Course 25,Biology,1,Instructor 25,False
+11,1449,COURSE17,2021-03-31,Present,Student449,Doe,Female,1995-01-09,Biology,3.24,Course 17,Physics,1,Instructor 17,True
+12,1500,COURSE7,2021-02-26,Absent,Student500,Doe,Female,2004-10-03,Computer Science,2.85,Course 7,Mathematics,4,Instructor 7,False
+13,1179,COURSE19,2022-09-23,Present,Student179,Doe,Female,1995-02-24,Computer Science,2.37,Course 19,Biology,4,Instructor 19,True
+14,1411,COURSE14,2023-05-01,Absent,Student411,Doe,Male,2005-01-28,Computer Science,3.41,Course 14,Computer Science,4,Instructor 14,False
+15,1016,COURSE44,2024-01-21,Present,Student16,Doe,Female,2003-06-13,Biology,3.17,Course 44,Mathematics,3,Instructor 44,True
+16,1341,COURSE24,2023-05-26,Absent,Student341,Doe,Male,1995-04-11,Computer Science,3.13,Course 24,Physics,4,Instructor 24,False
+17,1140,COURSE34,2020-12-23,Present,Student140,Doe,Female,2003-07-23,Physics,2.51,Course 34,Mathematics,3,Instructor 34,True
+18,1056,COURSE50,2023-12-05,Present,Student56,Doe,Male,1996-05-30,Computer Science,3.77,Course 50,Computer Science,4,Instructor 50,True
+19,1065,COURSE18,2022-08-12,Absent,Student65,Doe,Male,1999-08-28,Computer Science,2.65,Course 18,Physics,3,Instructor 18,False
+20,1412,COURSE15,2021-08-10,Present,Student412,Doe,Male,1990-08-10,Computer Science,2.82,Course 15,Biology,1,Instructor 15,True
+21,1437,COURSE13,2020-04-03,Present,Student437,Doe,Female,2000-02-29,Mathematics,2.42,Course 13,Physics,2,Instructor 13,True
+22,1087,COURSE8,2020-03-16,Present,Student87,Doe,Male,1990-12-23,Biology,2.89,Course 8,Physics,3,Instructor 8,True
+23,1023,COURSE36,2020-11-07,Present,Student23,Doe,Female,2005-09-16,Biology,2.75,Course 36,Computer Science,4,Instructor 36,True
+24,1160,COURSE46,2021-01-23,Absent,Student160,Doe,Female,2000-08-04,Biology,2.92,Course 46,Physics,3,Instructor 46,False
+25,1176,COURSE20,2022-06-26,Absent,Student176,Doe,Male,2000-07-14,Mathematics,2.99,Course 20,Computer Science,1,Instructor 20,False
+26,1369,COURSE46,2024-06-25,Absent,Student369,Doe,Female,1990-05-09,Biology,3.49,Course 46,Physics,3,Instructor 46,False
+27,1378,COURSE47,2021-05-26,Present,Student378,Doe,Female,1998-05-16,Physics,3.88,Course 47,Mathematics,2,Instructor 47,True
+28,1054,COURSE6,2020-06-15,Absent,Student54,Doe,Female,2005-09-08,Mathematics,3.48,Course 6,Computer Science,2,Instructor 6,False
+29,1304,COURSE47,2022-08-12,Present,Student304,Doe,Male,1994-10-23,Physics,3.84,Course 47,Mathematics,2,Instructor 47,True
+30,1493,COURSE40,2021-10-01,Absent,Student493,Doe,Male,1996-10-04,Physics,3.96,Course 40,Physics,2,Instructor 40,False
+31,1242,COURSE46,2023-08-27,Present,Student242,Doe,Female,1996-10-12,Computer Science,3.4,Course 46,Physics,3,Instructor 46,True
+32,1380,COURSE17,2021-09-07,Absent,Student380,Doe,Female,2001-09-16,Physics,2.66,Course 17,Physics,1,Instructor 17,False
+33,1321,COURSE43,2022-04-28,Present,Student321,Doe,Male,1991-01-14,Biology,2.3,Course 43,Physics,3,Instructor 43,True
+34,1078,COURSE31,2021-12-29,Absent,Student78,Doe,Female,2003-05-07,Biology,2.91,Course 31,Computer Science,1,Instructor 31,False
+35,1131,COURSE11,2022-08-29,Absent,Student131,Doe,Female,1995-06-04,Biology,2.33,Course 11,Biology,2,Instructor 11,False
+36,1166,COURSE21,2023-09-02,Present,Student166,Doe,Female,1996-04-05,Physics,2.18,Course 21,Computer Science,4,Instructor 21,True
+37,1468,COURSE37,2024-11-30,Present,Student468,Doe,Male,1996-01-04,Physics,2.43,Course 37,Biology,4,Instructor 37,True
+38,1005,COURSE39,2020-09-10,Present,Student5,Doe,Female,2000-05-30,Physics,3.68,Course 39,Physics,2,Instructor 39,True
+39,1244,COURSE41,2021-06-12,Present,Student244,Doe,Female,1996-05-01,Biology,3.98,Course 41,Biology,2,Instructor 41,True
+40,1173,COURSE9,2021-07-06,Absent,Student173,Doe,Female,1998-10-20,Computer Science,3.03,Course 9,Biology,1,Instructor 9,False
+41,1477,COURSE3,2022-01-10,Absent,Student477,Doe,Male,2005-11-29,Mathematics,3.84,Course 3,Computer Science,2,Instructor 3,False
+42,1459,COURSE5,2022-09-30,Present,Student459,Doe,Female,1999-07-10,Computer Science,3.31,Course 5,Mathematics,4,Instructor 5,True
+43,1246,COURSE6,2020-12-09,Absent,Student246,Doe,Male,2005-11-29,Mathematics,2.66,Course 6,Computer Science,2,Instructor 6,False
+44,1250,COURSE34,2022-10-21,Present,Student250,Doe,Female,1990-03-03,Computer Science,2.38,Course 34,Mathematics,3,Instructor 34,True
+45,1096,COURSE36,2023-05-15,Absent,Student96,Doe,Female,2005-06-20,Computer Science,2.95,Course 36,Computer Science,4,Instructor 36,False
+46,1237,COURSE11,2020-03-15,Absent,Student237,Doe,Male,2001-08-06,Mathematics,3.74,Course 11,Biology,2,Instructor 11,False
+47,1392,COURSE40,2021-06-04,Absent,Student392,Doe,Female,1995-01-06,Physics,3.3,Course 40,Physics,2,Instructor 40,False
+48,1090,COURSE14,2023-11-22,Present,Student90,Doe,Male,1998-01-20,Mathematics,3.27,Course 14,Computer Science,4,Instructor 14,True
+49,1302,COURSE23,2024-08-14,Absent,Student302,Doe,Female,1998-08-06,Physics,2.53,Course 23,Computer Science,1,Instructor 23,False
+50,1239,COURSE47,2022-05-18,Present,Student239,Doe,Male,1998-10-05,Mathematics,3.3,Course 47,Mathematics,2,Instructor 47,True
+51,1439,COURSE43,2021-03-06,Present,Student439,Doe,Male,2003-03-09,Computer Science,2.23,Course 43,Physics,3,Instructor 43,True
+52,1433,COURSE27,2020-06-25,Present,Student433,Doe,Male,2002-12-13,Computer Science,3.65,Course 27,Biology,2,Instructor 27,True
+53,1222,COURSE20,2024-09-05,Absent,Student222,Doe,Male,2000-12-25,Physics,3.58,Course 20,Computer Science,1,Instructor 20,False
+54,1031,COURSE31,2020-05-05,Absent,Student31,Doe,Female,2003-06-29,Physics,2.96,Course 31,Computer Science,1,Instructor 31,False
+55,1465,COURSE30,2024-08-13,Absent,Student465,Doe,Male,1996-12-09,Computer Science,3.82,Course 30,Computer Science,3,Instructor 30,False
+56,1033,COURSE34,2021-11-11,Present,Student33,Doe,Male,2000-12-11,Physics,2.66,Course 34,Mathematics,3,Instructor 34,True
+57,1189,COURSE9,2023-09-15,Present,Student189,Doe,Female,2005-12-15,Mathematics,3.14,Course 9,Biology,1,Instructor 9,True
+58,1008,COURSE16,2023-05-16,Present,Student8,Doe,Female,1997-06-18,Mathematics,2.27,Course 16,Biology,4,Instructor 16,True
+59,1384,COURSE2,2023-09-18,Absent,Student384,Doe,Female,1998-02-01,Physics,3.6,Course 2,Physics,4,Instructor 2,False
+60,1320,COURSE7,2024-07-12,Absent,Student320,Doe,Female,2004-01-07,Mathematics,3.87,Course 7,Mathematics,4,Instructor 7,False
+61,1407,COURSE22,2021-11-09,Absent,Student407,Doe,Male,1996-06-10,Computer Science,2.05,Course 22,Biology,2,Instructor 22,False
+62,1177,COURSE12,2024-04-22,Present,Student177,Doe,Male,2000-05-25,Mathematics,3.32,Course 12,Mathematics,1,Instructor 12,True
+63,1173,COURSE27,2023-10-13,Present,Student173,Doe,Female,1998-10-20,Computer Science,3.03,Course 27,Biology,2,Instructor 27,True
+64,1104,COURSE49,2021-06-22,Present,Student104,Doe,Female,1993-11-03,Biology,3.2,Course 49,Computer Science,4,Instructor 49,True
+65,1197,COURSE20,2021-08-11,Present,Student197,Doe,Male,1995-06-13,Mathematics,2.34,Course 20,Computer Science,1,Instructor 20,True
+66,1321,COURSE9,2024-10-19,Present,Student321,Doe,Male,1991-01-14,Biology,2.3,Course 9,Biology,1,Instructor 9,True
+67,1298,COURSE29,2021-05-21,Present,Student298,Doe,Male,1990-03-04,Biology,2.74,Course 29,Mathematics,1,Instructor 29,True
+68,1127,COURSE28,2021-10-16,Absent,Student127,Doe,Female,1992-06-14,Biology,3.1,Course 28,Physics,1,Instructor 28,False
+69,1125,COURSE31,2020-05-03,Present,Student125,Doe,Male,2003-07-05,Biology,3.4,Course 31,Computer Science,1,Instructor 31,True
+70,1369,COURSE27,2021-04-29,Absent,Student369,Doe,Female,1990-05-09,Biology,3.49,Course 27,Biology,2,Instructor 27,False
+71,1193,COURSE20,2022-02-16,Present,Student193,Doe,Female,1990-04-21,Biology,2.33,Course 20,Computer Science,1,Instructor 20,True
+72,1030,COURSE40,2021-02-26,Present,Student30,Doe,Male,2005-12-21,Physics,2.47,Course 40,Physics,2,Instructor 40,True
+73,1359,COURSE4,2023-07-25,Absent,Student359,Doe,Male,2001-03-17,Computer Science,2.19,Course 4,Biology,4,Instructor 4,False
+74,1135,COURSE4,2021-05-08,Absent,Student135,Doe,Male,2003-11-15,Mathematics,2.74,Course 4,Biology,4,Instructor 4,False
+75,1229,COURSE11,2022-11-19,Present,Student229,Doe,Female,1990-03-31,Physics,3.15,Course 11,Biology,2,Instructor 11,True
+76,1496,COURSE22,2022-03-31,Absent,Student496,Doe,Male,1995-05-05,Mathematics,2.1,Course 22,Biology,2,Instructor 22,False
+77,1069,COURSE12,2020-02-21,Absent,Student69,Doe,Male,2005-06-24,Computer Science,2.09,Course 12,Mathematics,1,Instructor 12,False
+78,1054,COURSE3,2020-12-29,Present,Student54,Doe,Female,2005-09-08,Mathematics,3.48,Course 3,Computer Science,2,Instructor 3,True
+79,1200,COURSE4,2022-01-29,Absent,Student200,Doe,Female,2002-08-19,Biology,2.77,Course 4,Biology,4,Instructor 4,False
+80,1147,COURSE33,2022-08-01,Absent,Student147,Doe,Male,1999-04-03,Biology,2.46,Course 33,Biology,4,Instructor 33,False
+81,1071,COURSE2,2023-05-02,Absent,Student71,Doe,Female,1998-03-04,Mathematics,2.07,Course 2,Physics,4,Instructor 2,False
+82,1013,COURSE22,2020-09-10,Present,Student13,Doe,Male,1996-07-24,Biology,2.93,Course 22,Biology,2,Instructor 22,True
+83,1180,COURSE26,2023-06-28,Present,Student180,Doe,Female,1992-07-09,Biology,3.94,Course 26,Biology,2,Instructor 26,True
+84,1418,COURSE23,2023-04-14,Absent,Student418,Doe,Female,1995-05-11,Physics,2.1,Course 23,Computer Science,1,Instructor 23,False
+85,1394,COURSE1,2020-04-15,Absent,Student394,Doe,Male,1996-03-30,Computer Science,3.78,Course 1,Mathematics,2,Instructor 1,False
+86,1169,COURSE15,2023-05-16,Absent,Student169,Doe,Male,1993-09-13,Physics,2.48,Course 15,Biology,1,Instructor 15,False
+87,1009,COURSE44,2020-04-11,Absent,Student9,Doe,Female,2004-05-18,Physics,2.65,Course 44,Mathematics,3,Instructor 44,False
+88,1083,COURSE26,2021-05-19,Present,Student83,Doe,Male,1995-07-26,Physics,3.34,Course 26,Biology,2,Instructor 26,True
+89,1334,COURSE29,2020-04-25,Absent,Student334,Doe,Male,2001-10-03,Physics,2.62,Course 29,Mathematics,1,Instructor 29,False
+90,1119,COURSE42,2021-01-27,Absent,Student119,Doe,Male,2001-06-03,Computer Science,2.54,Course 42,Biology,3,Instructor 42,False
+91,1418,COURSE25,2023-07-23,Absent,Student418,Doe,Female,1995-05-11,Physics,2.1,Course 25,Biology,1,Instructor 25,False
+92,1098,COURSE45,2020-12-29,Absent,Student98,Doe,Male,2003-03-28,Physics,3.54,Course 45,Computer Science,4,Instructor 45,False
+93,1430,COURSE24,2020-03-23,Absent,Student430,Doe,Female,2001-03-29,Mathematics,3.38,Course 24,Physics,4,Instructor 24,False
+94,1252,COURSE7,2024-11-29,Present,Student252,Doe,Female,2001-08-14,Mathematics,3.5,Course 7,Mathematics,4,Instructor 7,True
+95,1462,COURSE40,2024-04-02,Absent,Student462,Doe,Male,1990-02-12,Biology,3.22,Course 40,Physics,2,Instructor 40,False
+96,1044,COURSE40,2020-12-20,Absent,Student44,Doe,Male,2003-04-10,Computer Science,2.43,Course 40,Physics,2,Instructor 40,False
+97,1086,COURSE38,2023-04-16,Present,Student86,Doe,Male,1993-11-21,Mathematics,3.8,Course 38,Physics,2,Instructor 38,True
+98,1436,COURSE29,2023-08-08,Absent,Student436,Doe,Female,1991-08-29,Biology,2.17,Course 29,Mathematics,1,Instructor 29,False
+99,1380,COURSE44,2022-02-25,Present,Student380,Doe,Female,2001-09-16,Physics,2.66,Course 44,Mathematics,3,Instructor 44,True
+100,1252,COURSE49,2020-04-17,Absent,Student252,Doe,Female,2001-08-14,Mathematics,3.5,Course 49,Computer Science,4,Instructor 49,False
+101,1111,COURSE2,2021-08-25,Present,Student111,Doe,Male,1997-03-13,Computer Science,3.41,Course 2,Physics,4,Instructor 2,True
+102,1478,COURSE17,2023-04-24,Present,Student478,Doe,Female,1992-03-03,Biology,3.68,Course 17,Physics,1,Instructor 17,True
+103,1191,COURSE46,2022-07-05,Absent,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 46,Physics,3,Instructor 46,False
+104,1415,COURSE46,2021-12-03,Absent,Student415,Doe,Male,1999-06-01,Mathematics,3.78,Course 46,Physics,3,Instructor 46,False
+105,1445,COURSE19,2023-01-05,Present,Student445,Doe,Male,1996-01-07,Mathematics,3.68,Course 19,Biology,4,Instructor 19,True
+106,1005,COURSE24,2021-05-21,Absent,Student5,Doe,Female,2000-05-30,Physics,3.68,Course 24,Physics,4,Instructor 24,False
+107,1392,COURSE4,2020-06-17,Absent,Student392,Doe,Female,1995-01-06,Physics,3.3,Course 4,Biology,4,Instructor 4,False
+108,1403,COURSE36,2022-12-25,Present,Student403,Doe,Male,1997-05-23,Mathematics,3.51,Course 36,Computer Science,4,Instructor 36,True
+109,1301,COURSE37,2022-02-17,Present,Student301,Doe,Male,1996-02-09,Computer Science,2.21,Course 37,Biology,4,Instructor 37,True
+110,1106,COURSE18,2024-03-17,Absent,Student106,Doe,Female,1997-05-19,Computer Science,2.97,Course 18,Physics,3,Instructor 18,False
+111,1313,COURSE43,2021-01-24,Present,Student313,Doe,Male,1998-04-15,Mathematics,3.7,Course 43,Physics,3,Instructor 43,True
+112,1246,COURSE49,2020-10-08,Present,Student246,Doe,Male,2005-11-29,Mathematics,2.66,Course 49,Computer Science,4,Instructor 49,True
+113,1252,COURSE10,2022-08-07,Absent,Student252,Doe,Female,2001-08-14,Mathematics,3.5,Course 10,Biology,3,Instructor 10,False
+114,1303,COURSE49,2022-08-02,Present,Student303,Doe,Female,1992-12-30,Biology,3.21,Course 49,Computer Science,4,Instructor 49,True
+115,1306,COURSE46,2024-12-08,Absent,Student306,Doe,Male,1995-10-28,Computer Science,2.8,Course 46,Physics,3,Instructor 46,False
+116,1065,COURSE45,2021-12-06,Absent,Student65,Doe,Male,1999-08-28,Computer Science,2.65,Course 45,Computer Science,4,Instructor 45,False
+117,1274,COURSE15,2024-01-27,Absent,Student274,Doe,Female,1996-11-15,Biology,2.79,Course 15,Biology,1,Instructor 15,False
+118,1187,COURSE43,2023-07-31,Present,Student187,Doe,Male,2001-08-19,Physics,3.65,Course 43,Physics,3,Instructor 43,True
+119,1158,COURSE19,2022-06-25,Present,Student158,Doe,Male,1994-12-04,Computer Science,3.24,Course 19,Biology,4,Instructor 19,True
+120,1304,COURSE7,2020-08-23,Present,Student304,Doe,Male,1994-10-23,Physics,3.84,Course 7,Mathematics,4,Instructor 7,True
+121,1317,COURSE18,2021-10-18,Present,Student317,Doe,Female,1991-11-19,Mathematics,2.6,Course 18,Physics,3,Instructor 18,True
+122,1472,COURSE45,2020-10-18,Present,Student472,Doe,Male,2000-07-13,Biology,3.1,Course 45,Computer Science,4,Instructor 45,True
+123,1166,COURSE7,2021-04-12,Absent,Student166,Doe,Female,1996-04-05,Physics,2.18,Course 7,Mathematics,4,Instructor 7,False
+124,1214,COURSE44,2023-04-10,Absent,Student214,Doe,Female,1992-06-29,Biology,2.81,Course 44,Mathematics,3,Instructor 44,False
+125,1380,COURSE13,2024-05-14,Present,Student380,Doe,Female,2001-09-16,Physics,2.66,Course 13,Physics,2,Instructor 13,True
+126,1179,COURSE22,2022-06-11,Absent,Student179,Doe,Female,1995-02-24,Computer Science,2.37,Course 22,Biology,2,Instructor 22,False
+127,1426,COURSE1,2021-07-22,Absent,Student426,Doe,Female,2000-11-19,Biology,3.67,Course 1,Mathematics,2,Instructor 1,False
+128,1354,COURSE15,2023-04-04,Absent,Student354,Doe,Female,1995-07-18,Mathematics,2.47,Course 15,Biology,1,Instructor 15,False
+129,1186,COURSE46,2020-04-27,Present,Student186,Doe,Female,2003-01-12,Physics,3.92,Course 46,Physics,3,Instructor 46,True
+130,1306,COURSE43,2020-10-29,Present,Student306,Doe,Male,1995-10-28,Computer Science,2.8,Course 43,Physics,3,Instructor 43,True
+131,1184,COURSE20,2021-11-09,Present,Student184,Doe,Female,1995-01-03,Biology,4.0,Course 20,Computer Science,1,Instructor 20,True
+132,1217,COURSE12,2023-07-22,Present,Student217,Doe,Female,1991-05-12,Mathematics,3.28,Course 12,Mathematics,1,Instructor 12,True
+133,1426,COURSE50,2021-04-30,Absent,Student426,Doe,Female,2000-11-19,Biology,3.67,Course 50,Computer Science,4,Instructor 50,False
+134,1214,COURSE3,2020-10-21,Present,Student214,Doe,Female,1992-06-29,Biology,2.81,Course 3,Computer Science,2,Instructor 3,True
+135,1270,COURSE8,2020-12-31,Absent,Student270,Doe,Male,2001-02-23,Mathematics,2.45,Course 8,Physics,3,Instructor 8,False
+136,1440,COURSE42,2022-11-12,Present,Student440,Doe,Female,2005-09-18,Computer Science,2.68,Course 42,Biology,3,Instructor 42,True
+137,1122,COURSE37,2022-06-03,Absent,Student122,Doe,Female,2005-12-20,Physics,2.23,Course 37,Biology,4,Instructor 37,False
+138,1202,COURSE26,2021-10-22,Present,Student202,Doe,Female,2003-05-06,Physics,2.97,Course 26,Biology,2,Instructor 26,True
+139,1438,COURSE11,2022-07-29,Present,Student438,Doe,Female,2001-01-26,Biology,3.36,Course 11,Biology,2,Instructor 11,True
+140,1441,COURSE38,2024-11-12,Present,Student441,Doe,Female,2001-01-30,Physics,2.18,Course 38,Physics,2,Instructor 38,True
+141,1348,COURSE7,2023-11-10,Present,Student348,Doe,Female,1999-08-27,Mathematics,2.06,Course 7,Mathematics,4,Instructor 7,True
+142,1112,COURSE49,2020-10-08,Present,Student112,Doe,Male,1991-09-01,Physics,3.66,Course 49,Computer Science,4,Instructor 49,True
+143,1199,COURSE19,2020-02-18,Absent,Student199,Doe,Male,2002-11-09,Mathematics,2.46,Course 19,Biology,4,Instructor 19,False
+144,1447,COURSE16,2024-04-20,Present,Student447,Doe,Female,1993-10-17,Biology,2.5,Course 16,Biology,4,Instructor 16,True
+145,1073,COURSE36,2024-09-14,Present,Student73,Doe,Male,1990-10-12,Physics,3.77,Course 36,Computer Science,4,Instructor 36,True
+146,1290,COURSE19,2020-02-11,Absent,Student290,Doe,Male,2004-06-20,Biology,3.52,Course 19,Biology,4,Instructor 19,False
+147,1066,COURSE5,2022-06-09,Present,Student66,Doe,Female,1991-10-10,Physics,2.15,Course 5,Mathematics,4,Instructor 5,True
+148,1404,COURSE2,2021-12-14,Present,Student404,Doe,Female,1997-03-12,Physics,2.12,Course 2,Physics,4,Instructor 2,True
+149,1342,COURSE24,2022-03-19,Present,Student342,Doe,Male,2003-05-25,Physics,2.58,Course 24,Physics,4,Instructor 24,True
+150,1357,COURSE29,2022-11-23,Absent,Student357,Doe,Female,2002-07-26,Computer Science,3.92,Course 29,Mathematics,1,Instructor 29,False
+151,1427,COURSE37,2020-06-22,Absent,Student427,Doe,Male,1999-10-20,Mathematics,3.37,Course 37,Biology,4,Instructor 37,False
+152,1445,COURSE15,2023-08-04,Present,Student445,Doe,Male,1996-01-07,Mathematics,3.68,Course 15,Biology,1,Instructor 15,True
+153,1337,COURSE42,2022-01-17,Absent,Student337,Doe,Male,1994-05-05,Mathematics,2.06,Course 42,Biology,3,Instructor 42,False
+154,1071,COURSE8,2022-12-25,Absent,Student71,Doe,Female,1998-03-04,Mathematics,2.07,Course 8,Physics,3,Instructor 8,False
+155,1270,COURSE43,2024-06-24,Present,Student270,Doe,Male,2001-02-23,Mathematics,2.45,Course 43,Physics,3,Instructor 43,True
+156,1064,COURSE23,2020-06-13,Absent,Student64,Doe,Male,1999-02-27,Biology,3.96,Course 23,Computer Science,1,Instructor 23,False
+157,1318,COURSE22,2024-08-13,Present,Student318,Doe,Male,1998-12-03,Computer Science,3.61,Course 22,Biology,2,Instructor 22,True
+158,1454,COURSE17,2024-02-03,Absent,Student454,Doe,Male,1997-03-07,Computer Science,2.48,Course 17,Physics,1,Instructor 17,False
+159,1260,COURSE13,2021-04-22,Absent,Student260,Doe,Female,1994-01-16,Biology,2.02,Course 13,Physics,2,Instructor 13,False
+160,1192,COURSE32,2023-02-03,Absent,Student192,Doe,Female,1994-07-20,Mathematics,3.99,Course 32,Computer Science,4,Instructor 32,False
+161,1002,COURSE46,2022-07-07,Present,Student2,Doe,Female,2001-05-13,Computer Science,2.07,Course 46,Physics,3,Instructor 46,True
+162,1198,COURSE16,2022-09-24,Present,Student198,Doe,Male,1990-07-03,Computer Science,2.29,Course 16,Biology,4,Instructor 16,True
+163,1194,COURSE17,2022-06-03,Absent,Student194,Doe,Male,1997-10-20,Biology,2.29,Course 17,Physics,1,Instructor 17,False
+164,1346,COURSE5,2021-10-08,Absent,Student346,Doe,Male,1991-09-05,Mathematics,2.07,Course 5,Mathematics,4,Instructor 5,False
+165,1347,COURSE5,2022-05-17,Absent,Student347,Doe,Female,2002-06-06,Biology,2.31,Course 5,Mathematics,4,Instructor 5,False
+166,1444,COURSE13,2020-12-14,Present,Student444,Doe,Female,2002-02-12,Mathematics,2.23,Course 13,Physics,2,Instructor 13,True
+167,1419,COURSE31,2024-12-09,Present,Student419,Doe,Male,1993-04-04,Computer Science,3.27,Course 31,Computer Science,1,Instructor 31,True
+168,1291,COURSE40,2021-01-31,Present,Student291,Doe,Male,2003-04-14,Physics,3.61,Course 40,Physics,2,Instructor 40,True
+169,1131,COURSE24,2020-11-11,Present,Student131,Doe,Female,1995-06-04,Biology,2.33,Course 24,Physics,4,Instructor 24,True
+170,1141,COURSE36,2022-04-25,Present,Student141,Doe,Male,2001-12-17,Mathematics,2.51,Course 36,Computer Science,4,Instructor 36,True
+171,1315,COURSE39,2023-02-15,Present,Student315,Doe,Female,1996-10-14,Mathematics,3.18,Course 39,Physics,2,Instructor 39,True
+172,1290,COURSE17,2022-08-14,Present,Student290,Doe,Male,2004-06-20,Biology,3.52,Course 17,Physics,1,Instructor 17,True
+173,1146,COURSE13,2021-10-28,Absent,Student146,Doe,Female,2005-05-31,Physics,2.44,Course 13,Physics,2,Instructor 13,False
+174,1223,COURSE47,2022-05-20,Present,Student223,Doe,Female,1993-11-29,Computer Science,2.8,Course 47,Mathematics,2,Instructor 47,True
+175,1067,COURSE20,2020-05-25,Absent,Student67,Doe,Male,2004-09-06,Computer Science,3.84,Course 20,Computer Science,1,Instructor 20,False
+176,1352,COURSE49,2022-02-03,Present,Student352,Doe,Female,2003-04-17,Physics,2.72,Course 49,Computer Science,4,Instructor 49,True
+177,1327,COURSE20,2023-11-10,Present,Student327,Doe,Male,1998-12-27,Physics,3.67,Course 20,Computer Science,1,Instructor 20,True
+178,1214,COURSE14,2023-07-22,Absent,Student214,Doe,Female,1992-06-29,Biology,2.81,Course 14,Computer Science,4,Instructor 14,False
+179,1303,COURSE15,2020-11-13,Absent,Student303,Doe,Female,1992-12-30,Biology,3.21,Course 15,Biology,1,Instructor 15,False
+180,1398,COURSE19,2020-04-19,Present,Student398,Doe,Female,2005-08-30,Computer Science,2.84,Course 19,Biology,4,Instructor 19,True
+181,1437,COURSE26,2020-08-15,Absent,Student437,Doe,Female,2000-02-29,Mathematics,2.42,Course 26,Biology,2,Instructor 26,False
+182,1475,COURSE22,2024-06-04,Present,Student475,Doe,Male,1995-11-08,Physics,2.51,Course 22,Biology,2,Instructor 22,True
+183,1207,COURSE34,2021-10-08,Absent,Student207,Doe,Male,2002-07-30,Computer Science,2.22,Course 34,Mathematics,3,Instructor 34,False
+184,1221,COURSE41,2024-11-03,Absent,Student221,Doe,Female,1994-04-20,Mathematics,3.51,Course 41,Biology,2,Instructor 41,False
+185,1165,COURSE24,2023-12-27,Present,Student165,Doe,Female,1998-08-26,Biology,2.11,Course 24,Physics,4,Instructor 24,True
+186,1348,COURSE22,2020-01-05,Present,Student348,Doe,Female,1999-08-27,Mathematics,2.06,Course 22,Biology,2,Instructor 22,True
+187,1209,COURSE45,2020-12-23,Absent,Student209,Doe,Female,2004-01-11,Biology,2.6,Course 45,Computer Science,4,Instructor 45,False
+188,1214,COURSE42,2020-04-23,Present,Student214,Doe,Female,1992-06-29,Biology,2.81,Course 42,Biology,3,Instructor 42,True
+189,1340,COURSE27,2021-03-20,Absent,Student340,Doe,Female,1996-03-19,Physics,2.91,Course 27,Biology,2,Instructor 27,False
+190,1440,COURSE17,2024-06-20,Absent,Student440,Doe,Female,2005-09-18,Computer Science,2.68,Course 17,Physics,1,Instructor 17,False
+191,1247,COURSE45,2020-12-14,Present,Student247,Doe,Female,1997-07-16,Computer Science,3.4,Course 45,Computer Science,4,Instructor 45,True
+192,1469,COURSE1,2021-01-25,Present,Student469,Doe,Female,2001-02-10,Biology,3.68,Course 1,Mathematics,2,Instructor 1,True
+193,1455,COURSE29,2023-06-27,Present,Student455,Doe,Male,1998-11-13,Physics,2.24,Course 29,Mathematics,1,Instructor 29,True
+194,1323,COURSE26,2022-06-18,Absent,Student323,Doe,Male,2005-10-13,Physics,3.81,Course 26,Biology,2,Instructor 26,False
+195,1203,COURSE32,2022-02-11,Absent,Student203,Doe,Male,2004-08-13,Physics,2.47,Course 32,Computer Science,4,Instructor 32,False
+196,1032,COURSE13,2023-04-04,Absent,Student32,Doe,Male,1996-11-15,Biology,2.93,Course 13,Physics,2,Instructor 13,False
+197,1052,COURSE16,2024-08-14,Absent,Student52,Doe,Female,2003-06-09,Computer Science,2.32,Course 16,Biology,4,Instructor 16,False
+198,1184,COURSE11,2020-01-03,Absent,Student184,Doe,Female,1995-01-03,Biology,4.0,Course 11,Biology,2,Instructor 11,False
+199,1138,COURSE49,2024-07-04,Present,Student138,Doe,Female,1997-07-24,Mathematics,2.86,Course 49,Computer Science,4,Instructor 49,True
+200,1373,COURSE21,2020-02-22,Absent,Student373,Doe,Male,2003-01-01,Mathematics,2.68,Course 21,Computer Science,4,Instructor 21,False
+201,1442,COURSE46,2024-08-19,Present,Student442,Doe,Female,1999-07-05,Biology,2.9,Course 46,Physics,3,Instructor 46,True
+202,1382,COURSE3,2023-11-19,Absent,Student382,Doe,Female,2000-02-02,Biology,2.41,Course 3,Computer Science,2,Instructor 3,False
+203,1087,COURSE8,2022-04-15,Present,Student87,Doe,Male,1990-12-23,Biology,2.89,Course 8,Physics,3,Instructor 8,True
+204,1479,COURSE39,2021-08-23,Present,Student479,Doe,Male,1997-11-30,Physics,2.26,Course 39,Physics,2,Instructor 39,True
+205,1430,COURSE39,2021-06-19,Present,Student430,Doe,Female,2001-03-29,Mathematics,3.38,Course 39,Physics,2,Instructor 39,True
+206,1270,COURSE11,2021-01-01,Present,Student270,Doe,Male,2001-02-23,Mathematics,2.45,Course 11,Biology,2,Instructor 11,True
+207,1066,COURSE3,2024-04-03,Present,Student66,Doe,Female,1991-10-10,Physics,2.15,Course 3,Computer Science,2,Instructor 3,True
+208,1475,COURSE9,2021-01-24,Present,Student475,Doe,Male,1995-11-08,Physics,2.51,Course 9,Biology,1,Instructor 9,True
+209,1242,COURSE39,2022-08-07,Absent,Student242,Doe,Female,1996-10-12,Computer Science,3.4,Course 39,Physics,2,Instructor 39,False
+210,1339,COURSE20,2024-01-06,Present,Student339,Doe,Male,2001-05-17,Biology,3.01,Course 20,Computer Science,1,Instructor 20,True
+211,1128,COURSE9,2021-05-26,Present,Student128,Doe,Male,1992-03-24,Computer Science,3.35,Course 9,Biology,1,Instructor 9,True
+212,1149,COURSE7,2024-03-30,Present,Student149,Doe,Male,1999-02-28,Biology,2.78,Course 7,Mathematics,4,Instructor 7,True
+213,1001,COURSE44,2023-03-12,Absent,Student1,Doe,Female,2004-09-03,Physics,2.33,Course 44,Mathematics,3,Instructor 44,False
+214,1475,COURSE40,2021-03-03,Absent,Student475,Doe,Male,1995-11-08,Physics,2.51,Course 40,Physics,2,Instructor 40,False
+215,1454,COURSE38,2024-06-03,Absent,Student454,Doe,Male,1997-03-07,Computer Science,2.48,Course 38,Physics,2,Instructor 38,False
+216,1037,COURSE32,2021-10-03,Absent,Student37,Doe,Female,1990-01-24,Computer Science,2.27,Course 32,Computer Science,4,Instructor 32,False
+217,1017,COURSE23,2024-07-26,Present,Student17,Doe,Female,1994-12-09,Biology,3.16,Course 23,Computer Science,1,Instructor 23,True
+218,1485,COURSE20,2021-04-06,Present,Student485,Doe,Male,1997-02-01,Physics,3.83,Course 20,Computer Science,1,Instructor 20,True
+219,1151,COURSE4,2024-01-03,Present,Student151,Doe,Male,1995-06-08,Computer Science,2.09,Course 4,Biology,4,Instructor 4,True
+220,1318,COURSE10,2023-10-12,Absent,Student318,Doe,Male,1998-12-03,Computer Science,3.61,Course 10,Biology,3,Instructor 10,False
+221,1299,COURSE48,2023-10-17,Absent,Student299,Doe,Female,1991-07-13,Computer Science,2.52,Course 48,Computer Science,3,Instructor 48,False
+222,1401,COURSE42,2022-11-05,Absent,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 42,Biology,3,Instructor 42,False
+223,1498,COURSE6,2022-03-05,Present,Student498,Doe,Female,1991-07-28,Biology,3.53,Course 6,Computer Science,2,Instructor 6,True
+224,1263,COURSE20,2024-12-17,Absent,Student263,Doe,Male,1997-07-21,Computer Science,2.07,Course 20,Computer Science,1,Instructor 20,False
+225,1405,COURSE27,2021-11-17,Present,Student405,Doe,Female,1993-03-24,Computer Science,2.68,Course 27,Biology,2,Instructor 27,True
+226,1267,COURSE30,2020-08-24,Present,Student267,Doe,Male,2001-03-23,Physics,2.92,Course 30,Computer Science,3,Instructor 30,True
+227,1076,COURSE15,2021-08-01,Absent,Student76,Doe,Female,2002-03-19,Biology,3.65,Course 15,Biology,1,Instructor 15,False
+228,1067,COURSE23,2021-05-12,Present,Student67,Doe,Male,2004-09-06,Computer Science,3.84,Course 23,Computer Science,1,Instructor 23,True
+229,1094,COURSE36,2021-08-02,Present,Student94,Doe,Male,1997-03-08,Physics,3.63,Course 36,Computer Science,4,Instructor 36,True
+230,1080,COURSE34,2020-08-26,Absent,Student80,Doe,Male,1994-07-28,Mathematics,2.19,Course 34,Mathematics,3,Instructor 34,False
+231,1475,COURSE7,2024-11-16,Absent,Student475,Doe,Male,1995-11-08,Physics,2.51,Course 7,Mathematics,4,Instructor 7,False
+232,1173,COURSE6,2020-03-17,Present,Student173,Doe,Female,1998-10-20,Computer Science,3.03,Course 6,Computer Science,2,Instructor 6,True
+233,1339,COURSE8,2022-05-28,Absent,Student339,Doe,Male,2001-05-17,Biology,3.01,Course 8,Physics,3,Instructor 8,False
+234,1280,COURSE19,2023-08-06,Absent,Student280,Doe,Female,1997-06-19,Physics,3.75,Course 19,Biology,4,Instructor 19,False
+235,1055,COURSE17,2020-11-22,Absent,Student55,Doe,Female,1999-06-24,Computer Science,2.1,Course 17,Physics,1,Instructor 17,False
+236,1419,COURSE30,2020-11-13,Absent,Student419,Doe,Male,1993-04-04,Computer Science,3.27,Course 30,Computer Science,3,Instructor 30,False
+237,1022,COURSE1,2022-07-24,Present,Student22,Doe,Female,2005-05-11,Physics,3.42,Course 1,Mathematics,2,Instructor 1,True
+238,1106,COURSE44,2021-09-19,Absent,Student106,Doe,Female,1997-05-19,Computer Science,2.97,Course 44,Mathematics,3,Instructor 44,False
+239,1143,COURSE37,2022-08-14,Absent,Student143,Doe,Male,1990-06-21,Biology,3.74,Course 37,Biology,4,Instructor 37,False
+240,1444,COURSE9,2022-09-17,Absent,Student444,Doe,Female,2002-02-12,Mathematics,2.23,Course 9,Biology,1,Instructor 9,False
+241,1399,COURSE33,2022-01-10,Absent,Student399,Doe,Female,2004-07-08,Computer Science,3.85,Course 33,Biology,4,Instructor 33,False
+242,1089,COURSE38,2020-02-08,Absent,Student89,Doe,Male,1991-01-03,Mathematics,3.13,Course 38,Physics,2,Instructor 38,False
+243,1385,COURSE1,2020-07-21,Absent,Student385,Doe,Male,1996-03-29,Computer Science,3.15,Course 1,Mathematics,2,Instructor 1,False
+244,1081,COURSE9,2024-03-05,Present,Student81,Doe,Male,2004-02-22,Biology,3.92,Course 9,Biology,1,Instructor 9,True
+245,1402,COURSE4,2024-04-26,Absent,Student402,Doe,Female,2005-11-04,Mathematics,3.0,Course 4,Biology,4,Instructor 4,False
+246,1010,COURSE16,2020-09-04,Present,Student10,Doe,Male,2000-10-30,Physics,2.09,Course 16,Biology,4,Instructor 16,True
+247,1191,COURSE11,2021-07-24,Absent,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 11,Biology,2,Instructor 11,False
+248,1232,COURSE2,2024-01-04,Present,Student232,Doe,Male,2005-02-18,Biology,2.17,Course 2,Physics,4,Instructor 2,True
+249,1251,COURSE24,2022-09-04,Absent,Student251,Doe,Male,1996-03-09,Physics,2.25,Course 24,Physics,4,Instructor 24,False
+250,1118,COURSE22,2024-01-14,Present,Student118,Doe,Female,1994-12-01,Mathematics,2.67,Course 22,Biology,2,Instructor 22,True
+251,1320,COURSE49,2020-07-30,Present,Student320,Doe,Female,2004-01-07,Mathematics,3.87,Course 49,Computer Science,4,Instructor 49,True
+252,1036,COURSE12,2021-06-06,Present,Student36,Doe,Male,2000-12-03,Physics,2.69,Course 12,Mathematics,1,Instructor 12,True
+253,1032,COURSE26,2023-10-30,Absent,Student32,Doe,Male,1996-11-15,Biology,2.93,Course 26,Biology,2,Instructor 26,False
+254,1210,COURSE30,2024-12-27,Present,Student210,Doe,Female,1995-09-16,Physics,2.59,Course 30,Computer Science,3,Instructor 30,True
+255,1237,COURSE14,2020-03-16,Absent,Student237,Doe,Male,2001-08-06,Mathematics,3.74,Course 14,Computer Science,4,Instructor 14,False
+256,1339,COURSE18,2022-06-01,Present,Student339,Doe,Male,2001-05-17,Biology,3.01,Course 18,Physics,3,Instructor 18,True
+257,1327,COURSE41,2020-07-11,Absent,Student327,Doe,Male,1998-12-27,Physics,3.67,Course 41,Biology,2,Instructor 41,False
+258,1158,COURSE12,2024-04-01,Absent,Student158,Doe,Male,1994-12-04,Computer Science,3.24,Course 12,Mathematics,1,Instructor 12,False
+259,1483,COURSE10,2023-02-22,Present,Student483,Doe,Female,1999-11-10,Mathematics,2.22,Course 10,Biology,3,Instructor 10,True
+260,1076,COURSE36,2021-10-18,Present,Student76,Doe,Female,2002-03-19,Biology,3.65,Course 36,Computer Science,4,Instructor 36,True
+261,1276,COURSE45,2021-07-16,Absent,Student276,Doe,Male,1990-02-09,Biology,3.17,Course 45,Computer Science,4,Instructor 45,False
+262,1089,COURSE50,2024-04-07,Absent,Student89,Doe,Male,1991-01-03,Mathematics,3.13,Course 50,Computer Science,4,Instructor 50,False
+263,1344,COURSE35,2024-04-26,Absent,Student344,Doe,Male,2005-03-30,Physics,3.23,Course 35,Computer Science,4,Instructor 35,False
+264,1459,COURSE41,2024-12-20,Absent,Student459,Doe,Female,1999-07-10,Computer Science,3.31,Course 41,Biology,2,Instructor 41,False
+265,1213,COURSE49,2022-04-18,Absent,Student213,Doe,Male,2002-08-30,Biology,3.87,Course 49,Computer Science,4,Instructor 49,False
+266,1284,COURSE46,2023-02-25,Absent,Student284,Doe,Female,2002-10-08,Mathematics,2.08,Course 46,Physics,3,Instructor 46,False
+267,1287,COURSE11,2020-08-14,Absent,Student287,Doe,Female,2005-04-06,Mathematics,2.98,Course 11,Biology,2,Instructor 11,False
+268,1044,COURSE22,2020-11-10,Present,Student44,Doe,Male,2003-04-10,Computer Science,2.43,Course 22,Biology,2,Instructor 22,True
+269,1496,COURSE17,2022-04-13,Absent,Student496,Doe,Male,1995-05-05,Mathematics,2.1,Course 17,Physics,1,Instructor 17,False
+270,1484,COURSE3,2022-02-10,Present,Student484,Doe,Female,2004-11-13,Physics,3.27,Course 3,Computer Science,2,Instructor 3,True
+271,1192,COURSE19,2023-10-22,Absent,Student192,Doe,Female,1994-07-20,Mathematics,3.99,Course 19,Biology,4,Instructor 19,False
+272,1216,COURSE39,2021-11-11,Present,Student216,Doe,Female,1992-02-02,Biology,2.56,Course 39,Physics,2,Instructor 39,True
+273,1191,COURSE38,2020-01-07,Present,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 38,Physics,2,Instructor 38,True
+274,1123,COURSE14,2020-06-30,Present,Student123,Doe,Male,1995-01-18,Computer Science,2.34,Course 14,Computer Science,4,Instructor 14,True
+275,1323,COURSE8,2022-10-11,Present,Student323,Doe,Male,2005-10-13,Physics,3.81,Course 8,Physics,3,Instructor 8,True
+276,1472,COURSE24,2023-12-26,Absent,Student472,Doe,Male,2000-07-13,Biology,3.1,Course 24,Physics,4,Instructor 24,False
+277,1247,COURSE1,2023-01-08,Present,Student247,Doe,Female,1997-07-16,Computer Science,3.4,Course 1,Mathematics,2,Instructor 1,True
+278,1306,COURSE5,2020-03-05,Present,Student306,Doe,Male,1995-10-28,Computer Science,2.8,Course 5,Mathematics,4,Instructor 5,True
+279,1222,COURSE2,2021-03-02,Present,Student222,Doe,Male,2000-12-25,Physics,3.58,Course 2,Physics,4,Instructor 2,True
+280,1173,COURSE35,2023-10-08,Absent,Student173,Doe,Female,1998-10-20,Computer Science,3.03,Course 35,Computer Science,4,Instructor 35,False
+281,1067,COURSE18,2024-01-23,Present,Student67,Doe,Male,2004-09-06,Computer Science,3.84,Course 18,Physics,3,Instructor 18,True
+282,1182,COURSE43,2024-08-18,Absent,Student182,Doe,Female,1996-06-11,Physics,3.78,Course 43,Physics,3,Instructor 43,False
+283,1007,COURSE24,2024-05-19,Absent,Student7,Doe,Male,1999-08-20,Biology,3.17,Course 24,Physics,4,Instructor 24,False
+284,1118,COURSE41,2020-11-18,Absent,Student118,Doe,Female,1994-12-01,Mathematics,2.67,Course 41,Biology,2,Instructor 41,False
+285,1283,COURSE48,2020-09-28,Present,Student283,Doe,Female,1992-06-10,Computer Science,3.21,Course 48,Computer Science,3,Instructor 48,True
+286,1179,COURSE36,2024-05-04,Absent,Student179,Doe,Female,1995-02-24,Computer Science,2.37,Course 36,Computer Science,4,Instructor 36,False
+287,1229,COURSE33,2020-02-14,Present,Student229,Doe,Female,1990-03-31,Physics,3.15,Course 33,Biology,4,Instructor 33,True
+288,1424,COURSE14,2020-10-29,Absent,Student424,Doe,Male,1994-02-23,Physics,3.68,Course 14,Computer Science,4,Instructor 14,False
+289,1100,COURSE30,2021-09-01,Absent,Student100,Doe,Male,2005-09-12,Mathematics,2.68,Course 30,Computer Science,3,Instructor 30,False
+290,1171,COURSE4,2022-01-12,Present,Student171,Doe,Male,1992-03-12,Physics,3.52,Course 4,Biology,4,Instructor 4,True
+291,1366,COURSE3,2023-09-08,Present,Student366,Doe,Male,1995-12-10,Mathematics,2.45,Course 3,Computer Science,2,Instructor 3,True
+292,1031,COURSE10,2020-11-14,Present,Student31,Doe,Female,2003-06-29,Physics,2.96,Course 10,Biology,3,Instructor 10,True
+293,1489,COURSE9,2024-09-20,Present,Student489,Doe,Female,1998-08-30,Mathematics,3.53,Course 9,Biology,1,Instructor 9,True
+294,1186,COURSE22,2021-08-08,Absent,Student186,Doe,Female,2003-01-12,Physics,3.92,Course 22,Biology,2,Instructor 22,False
+295,1286,COURSE42,2020-04-23,Absent,Student286,Doe,Female,1993-05-31,Computer Science,2.52,Course 42,Biology,3,Instructor 42,False
+296,1138,COURSE44,2024-09-03,Present,Student138,Doe,Female,1997-07-24,Mathematics,2.86,Course 44,Mathematics,3,Instructor 44,True
+297,1147,COURSE18,2024-05-20,Absent,Student147,Doe,Male,1999-04-03,Biology,2.46,Course 18,Physics,3,Instructor 18,False
+298,1065,COURSE44,2020-09-16,Absent,Student65,Doe,Male,1999-08-28,Computer Science,2.65,Course 44,Mathematics,3,Instructor 44,False
+299,1183,COURSE15,2020-05-29,Present,Student183,Doe,Male,2001-08-07,Biology,2.0,Course 15,Biology,1,Instructor 15,True
+300,1072,COURSE39,2022-10-25,Present,Student72,Doe,Male,1999-05-27,Biology,2.13,Course 39,Physics,2,Instructor 39,True
+301,1277,COURSE6,2023-01-10,Absent,Student277,Doe,Female,2000-08-14,Biology,2.24,Course 6,Computer Science,2,Instructor 6,False
+302,1228,COURSE14,2020-01-09,Absent,Student228,Doe,Male,1995-08-27,Physics,3.71,Course 14,Computer Science,4,Instructor 14,False
+303,1093,COURSE4,2023-11-10,Absent,Student93,Doe,Female,2002-05-13,Mathematics,2.75,Course 4,Biology,4,Instructor 4,False
+304,1175,COURSE4,2023-03-23,Present,Student175,Doe,Female,1995-10-22,Biology,2.04,Course 4,Biology,4,Instructor 4,True
+305,1403,COURSE4,2022-10-06,Present,Student403,Doe,Male,1997-05-23,Mathematics,3.51,Course 4,Biology,4,Instructor 4,True
+306,1146,COURSE12,2021-09-02,Absent,Student146,Doe,Female,2005-05-31,Physics,2.44,Course 12,Mathematics,1,Instructor 12,False
+307,1051,COURSE39,2023-07-10,Absent,Student51,Doe,Male,1996-10-24,Biology,2.31,Course 39,Physics,2,Instructor 39,False
+308,1037,COURSE9,2024-11-30,Absent,Student37,Doe,Female,1990-01-24,Computer Science,2.27,Course 9,Biology,1,Instructor 9,False
+309,1066,COURSE17,2023-10-20,Present,Student66,Doe,Female,1991-10-10,Physics,2.15,Course 17,Physics,1,Instructor 17,True
+310,1429,COURSE48,2021-04-06,Absent,Student429,Doe,Male,1992-12-30,Computer Science,3.19,Course 48,Computer Science,3,Instructor 48,False
+311,1212,COURSE50,2020-09-23,Present,Student212,Doe,Male,1997-11-16,Computer Science,3.03,Course 50,Computer Science,4,Instructor 50,True
+312,1177,COURSE24,2020-07-09,Present,Student177,Doe,Male,2000-05-25,Mathematics,3.32,Course 24,Physics,4,Instructor 24,True
+313,1143,COURSE39,2020-11-21,Absent,Student143,Doe,Male,1990-06-21,Biology,3.74,Course 39,Physics,2,Instructor 39,False
+314,1052,COURSE23,2022-10-02,Absent,Student52,Doe,Female,2003-06-09,Computer Science,2.32,Course 23,Computer Science,1,Instructor 23,False
+315,1044,COURSE32,2023-02-02,Absent,Student44,Doe,Male,2003-04-10,Computer Science,2.43,Course 32,Computer Science,4,Instructor 32,False
+316,1163,COURSE38,2023-07-13,Present,Student163,Doe,Male,1990-10-09,Computer Science,2.01,Course 38,Physics,2,Instructor 38,True
+317,1133,COURSE16,2021-02-27,Absent,Student133,Doe,Male,2005-06-20,Mathematics,3.27,Course 16,Biology,4,Instructor 16,False
+318,1401,COURSE42,2020-03-27,Present,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 42,Biology,3,Instructor 42,True
+319,1169,COURSE41,2020-05-19,Absent,Student169,Doe,Male,1993-09-13,Physics,2.48,Course 41,Biology,2,Instructor 41,False
+320,1283,COURSE47,2022-06-03,Present,Student283,Doe,Female,1992-06-10,Computer Science,3.21,Course 47,Mathematics,2,Instructor 47,True
+321,1138,COURSE18,2020-01-14,Present,Student138,Doe,Female,1997-07-24,Mathematics,2.86,Course 18,Physics,3,Instructor 18,True
+322,1054,COURSE33,2024-04-19,Present,Student54,Doe,Female,2005-09-08,Mathematics,3.48,Course 33,Biology,4,Instructor 33,True
+323,1039,COURSE17,2020-06-07,Absent,Student39,Doe,Female,2004-06-06,Mathematics,2.35,Course 17,Physics,1,Instructor 17,False
+324,1419,COURSE4,2020-03-25,Present,Student419,Doe,Male,1993-04-04,Computer Science,3.27,Course 4,Biology,4,Instructor 4,True
+325,1261,COURSE35,2021-02-23,Absent,Student261,Doe,Female,1990-07-04,Mathematics,2.46,Course 35,Computer Science,4,Instructor 35,False
+326,1271,COURSE18,2022-02-04,Absent,Student271,Doe,Female,1995-01-02,Physics,2.76,Course 18,Physics,3,Instructor 18,False
+327,1061,COURSE45,2023-02-18,Present,Student61,Doe,Male,1990-01-15,Biology,3.93,Course 45,Computer Science,4,Instructor 45,True
+328,1337,COURSE1,2021-01-31,Present,Student337,Doe,Male,1994-05-05,Mathematics,2.06,Course 1,Mathematics,2,Instructor 1,True
+329,1048,COURSE46,2021-12-18,Absent,Student48,Doe,Female,1994-07-16,Computer Science,2.78,Course 46,Physics,3,Instructor 46,False
+330,1219,COURSE2,2020-08-04,Absent,Student219,Doe,Female,2004-12-05,Biology,3.21,Course 2,Physics,4,Instructor 2,False
+331,1058,COURSE11,2022-02-15,Absent,Student58,Doe,Male,2000-12-22,Computer Science,2.19,Course 11,Biology,2,Instructor 11,False
+332,1021,COURSE47,2022-04-08,Absent,Student21,Doe,Male,2003-01-17,Biology,3.03,Course 47,Mathematics,2,Instructor 47,False
+333,1194,COURSE33,2023-07-18,Absent,Student194,Doe,Male,1997-10-20,Biology,2.29,Course 33,Biology,4,Instructor 33,False
+334,1041,COURSE29,2022-01-14,Present,Student41,Doe,Female,1996-09-02,Biology,2.22,Course 29,Mathematics,1,Instructor 29,True
+335,1137,COURSE49,2023-09-24,Present,Student137,Doe,Female,2002-11-21,Computer Science,2.28,Course 49,Computer Science,4,Instructor 49,True
+336,1360,COURSE40,2020-11-26,Absent,Student360,Doe,Male,1998-11-11,Physics,3.23,Course 40,Physics,2,Instructor 40,False
+337,1005,COURSE34,2021-09-18,Absent,Student5,Doe,Female,2000-05-30,Physics,3.68,Course 34,Mathematics,3,Instructor 34,False
+338,1117,COURSE39,2021-02-22,Absent,Student117,Doe,Female,2001-12-02,Physics,2.06,Course 39,Physics,2,Instructor 39,False
+339,1218,COURSE29,2021-12-11,Present,Student218,Doe,Male,1991-03-02,Mathematics,2.22,Course 29,Mathematics,1,Instructor 29,True
+340,1176,COURSE9,2021-12-09,Present,Student176,Doe,Male,2000-07-14,Mathematics,2.99,Course 9,Biology,1,Instructor 9,True
+341,1408,COURSE27,2021-05-22,Absent,Student408,Doe,Female,1990-02-22,Biology,2.65,Course 27,Biology,2,Instructor 27,False
+342,1265,COURSE16,2020-12-30,Present,Student265,Doe,Male,1993-10-13,Physics,2.97,Course 16,Biology,4,Instructor 16,True
+343,1400,COURSE9,2021-08-27,Present,Student400,Doe,Male,1998-01-13,Mathematics,3.15,Course 9,Biology,1,Instructor 9,True
+344,1284,COURSE14,2020-08-07,Present,Student284,Doe,Female,2002-10-08,Mathematics,2.08,Course 14,Computer Science,4,Instructor 14,True
+345,1277,COURSE22,2023-02-18,Absent,Student277,Doe,Female,2000-08-14,Biology,2.24,Course 22,Biology,2,Instructor 22,False
+346,1264,COURSE5,2023-02-21,Absent,Student264,Doe,Female,2005-12-07,Computer Science,3.79,Course 5,Mathematics,4,Instructor 5,False
+347,1329,COURSE33,2022-07-11,Present,Student329,Doe,Male,1992-01-11,Computer Science,2.1,Course 33,Biology,4,Instructor 33,True
+348,1464,COURSE28,2022-03-31,Present,Student464,Doe,Female,2000-07-21,Computer Science,3.08,Course 28,Physics,1,Instructor 28,True
+349,1470,COURSE29,2023-06-12,Present,Student470,Doe,Male,2000-07-29,Computer Science,2.46,Course 29,Mathematics,1,Instructor 29,True
+350,1282,COURSE4,2023-10-04,Absent,Student282,Doe,Male,1998-06-17,Physics,2.8,Course 4,Biology,4,Instructor 4,False
+351,1074,COURSE43,2024-11-21,Present,Student74,Doe,Female,2003-03-29,Biology,3.8,Course 43,Physics,3,Instructor 43,True
+352,1496,COURSE9,2021-07-04,Present,Student496,Doe,Male,1995-05-05,Mathematics,2.1,Course 9,Biology,1,Instructor 9,True
+353,1475,COURSE13,2022-12-03,Present,Student475,Doe,Male,1995-11-08,Physics,2.51,Course 13,Physics,2,Instructor 13,True
+354,1094,COURSE16,2022-02-06,Present,Student94,Doe,Male,1997-03-08,Physics,3.63,Course 16,Biology,4,Instructor 16,True
+355,1100,COURSE16,2023-01-25,Absent,Student100,Doe,Male,2005-09-12,Mathematics,2.68,Course 16,Biology,4,Instructor 16,False
+356,1023,COURSE46,2020-03-16,Present,Student23,Doe,Female,2005-09-16,Biology,2.75,Course 46,Physics,3,Instructor 46,True
+357,1354,COURSE19,2020-07-12,Present,Student354,Doe,Female,1995-07-18,Mathematics,2.47,Course 19,Biology,4,Instructor 19,True
+358,1027,COURSE3,2020-02-06,Absent,Student27,Doe,Female,2003-03-17,Computer Science,2.18,Course 3,Computer Science,2,Instructor 3,False
+359,1389,COURSE35,2022-08-22,Present,Student389,Doe,Female,2005-09-11,Biology,3.19,Course 35,Computer Science,4,Instructor 35,True
+360,1181,COURSE3,2021-02-15,Absent,Student181,Doe,Female,1997-12-22,Biology,3.21,Course 3,Computer Science,2,Instructor 3,False
+361,1108,COURSE1,2020-05-22,Present,Student108,Doe,Male,1995-12-23,Mathematics,3.23,Course 1,Mathematics,2,Instructor 1,True
+362,1225,COURSE19,2021-11-10,Present,Student225,Doe,Female,1999-09-15,Biology,2.88,Course 19,Biology,4,Instructor 19,True
+363,1040,COURSE1,2020-07-05,Absent,Student40,Doe,Female,2001-03-15,Computer Science,2.42,Course 1,Mathematics,2,Instructor 1,False
+364,1388,COURSE21,2024-06-10,Present,Student388,Doe,Male,1990-09-23,Computer Science,3.23,Course 21,Computer Science,4,Instructor 21,True
+365,1193,COURSE7,2021-01-23,Present,Student193,Doe,Female,1990-04-21,Biology,2.33,Course 7,Mathematics,4,Instructor 7,True
+366,1401,COURSE32,2022-04-04,Present,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 32,Computer Science,4,Instructor 32,True
+367,1445,COURSE13,2021-04-13,Absent,Student445,Doe,Male,1996-01-07,Mathematics,3.68,Course 13,Physics,2,Instructor 13,False
+368,1055,COURSE35,2022-08-29,Absent,Student55,Doe,Female,1999-06-24,Computer Science,2.1,Course 35,Computer Science,4,Instructor 35,False
+369,1153,COURSE35,2023-03-14,Present,Student153,Doe,Female,1993-11-17,Mathematics,3.92,Course 35,Computer Science,4,Instructor 35,True
+370,1338,COURSE29,2024-08-10,Present,Student338,Doe,Female,1990-10-29,Biology,2.41,Course 29,Mathematics,1,Instructor 29,True
+371,1247,COURSE11,2021-04-23,Present,Student247,Doe,Female,1997-07-16,Computer Science,3.4,Course 11,Biology,2,Instructor 11,True
+372,1358,COURSE10,2020-01-19,Present,Student358,Doe,Female,2000-04-22,Physics,2.85,Course 10,Biology,3,Instructor 10,True
+373,1211,COURSE3,2022-09-24,Absent,Student211,Doe,Female,1995-03-04,Physics,2.77,Course 3,Computer Science,2,Instructor 3,False
+374,1122,COURSE30,2022-12-18,Absent,Student122,Doe,Female,2005-12-20,Physics,2.23,Course 30,Computer Science,3,Instructor 30,False
+375,1232,COURSE30,2023-07-22,Present,Student232,Doe,Male,2005-02-18,Biology,2.17,Course 30,Computer Science,3,Instructor 30,True
+376,1202,COURSE19,2024-07-07,Present,Student202,Doe,Female,2003-05-06,Physics,2.97,Course 19,Biology,4,Instructor 19,True
+377,1393,COURSE11,2024-12-27,Present,Student393,Doe,Female,1997-11-25,Mathematics,3.9,Course 11,Biology,2,Instructor 11,True
+378,1043,COURSE3,2021-09-22,Absent,Student43,Doe,Male,1999-02-12,Mathematics,2.19,Course 3,Computer Science,2,Instructor 3,False
+379,1161,COURSE11,2021-08-04,Absent,Student161,Doe,Male,2005-02-26,Computer Science,2.53,Course 11,Biology,2,Instructor 11,False
+380,1462,COURSE1,2022-10-13,Absent,Student462,Doe,Male,1990-02-12,Biology,3.22,Course 1,Mathematics,2,Instructor 1,False
+381,1263,COURSE5,2023-07-05,Absent,Student263,Doe,Male,1997-07-21,Computer Science,2.07,Course 5,Mathematics,4,Instructor 5,False
+382,1438,COURSE1,2024-10-29,Absent,Student438,Doe,Female,2001-01-26,Biology,3.36,Course 1,Mathematics,2,Instructor 1,False
+383,1150,COURSE28,2020-09-20,Present,Student150,Doe,Male,2003-09-05,Physics,2.1,Course 28,Physics,1,Instructor 28,True
+384,1408,COURSE24,2023-04-24,Absent,Student408,Doe,Female,1990-02-22,Biology,2.65,Course 24,Physics,4,Instructor 24,False
+385,1151,COURSE43,2020-09-05,Absent,Student151,Doe,Male,1995-06-08,Computer Science,2.09,Course 43,Physics,3,Instructor 43,False
+386,1011,COURSE30,2020-12-25,Absent,Student11,Doe,Female,2000-01-21,Biology,2.79,Course 30,Computer Science,3,Instructor 30,False
+387,1297,COURSE31,2023-06-25,Absent,Student297,Doe,Female,1990-11-20,Biology,3.5,Course 31,Computer Science,1,Instructor 31,False
+388,1004,COURSE13,2020-01-20,Absent,Student4,Doe,Female,1999-06-08,Computer Science,3.97,Course 13,Physics,2,Instructor 13,False
+389,1226,COURSE19,2021-11-23,Present,Student226,Doe,Male,1996-07-22,Physics,2.21,Course 19,Biology,4,Instructor 19,True
+390,1040,COURSE23,2024-04-12,Present,Student40,Doe,Female,2001-03-15,Computer Science,2.42,Course 23,Computer Science,1,Instructor 23,True
+391,1215,COURSE11,2024-09-27,Present,Student215,Doe,Female,1996-01-10,Computer Science,3.57,Course 11,Biology,2,Instructor 11,True
+392,1405,COURSE28,2024-12-01,Absent,Student405,Doe,Female,1993-03-24,Computer Science,2.68,Course 28,Physics,1,Instructor 28,False
+393,1150,COURSE17,2021-02-13,Present,Student150,Doe,Male,2003-09-05,Physics,2.1,Course 17,Physics,1,Instructor 17,True
+394,1462,COURSE1,2022-11-24,Absent,Student462,Doe,Male,1990-02-12,Biology,3.22,Course 1,Mathematics,2,Instructor 1,False
+395,1065,COURSE23,2024-02-10,Present,Student65,Doe,Male,1999-08-28,Computer Science,2.65,Course 23,Computer Science,1,Instructor 23,True
+396,1200,COURSE28,2021-05-15,Absent,Student200,Doe,Female,2002-08-19,Biology,2.77,Course 28,Physics,1,Instructor 28,False
+397,1096,COURSE31,2022-01-28,Present,Student96,Doe,Female,2005-06-20,Computer Science,2.95,Course 31,Computer Science,1,Instructor 31,True
+398,1330,COURSE27,2023-05-20,Present,Student330,Doe,Female,1999-08-02,Computer Science,2.84,Course 27,Biology,2,Instructor 27,True
+399,1416,COURSE9,2024-09-05,Absent,Student416,Doe,Male,1999-02-26,Physics,2.77,Course 9,Biology,1,Instructor 9,False
+400,1394,COURSE10,2021-04-11,Absent,Student394,Doe,Male,1996-03-30,Computer Science,3.78,Course 10,Biology,3,Instructor 10,False
+401,1218,COURSE22,2021-02-25,Present,Student218,Doe,Male,1991-03-02,Mathematics,2.22,Course 22,Biology,2,Instructor 22,True
+402,1400,COURSE3,2024-01-27,Absent,Student400,Doe,Male,1998-01-13,Mathematics,3.15,Course 3,Computer Science,2,Instructor 3,False
+403,1476,COURSE48,2023-08-01,Present,Student476,Doe,Female,2000-06-16,Computer Science,3.36,Course 48,Computer Science,3,Instructor 48,True
+404,1436,COURSE5,2020-12-19,Absent,Student436,Doe,Female,1991-08-29,Biology,2.17,Course 5,Mathematics,4,Instructor 5,False
+405,1073,COURSE33,2022-11-07,Absent,Student73,Doe,Male,1990-10-12,Physics,3.77,Course 33,Biology,4,Instructor 33,False
+406,1330,COURSE8,2021-12-24,Present,Student330,Doe,Female,1999-08-02,Computer Science,2.84,Course 8,Physics,3,Instructor 8,True
+407,1347,COURSE20,2022-08-10,Absent,Student347,Doe,Female,2002-06-06,Biology,2.31,Course 20,Computer Science,1,Instructor 20,False
+408,1440,COURSE36,2024-06-01,Present,Student440,Doe,Female,2005-09-18,Computer Science,2.68,Course 36,Computer Science,4,Instructor 36,True
+409,1190,COURSE2,2020-08-24,Present,Student190,Doe,Male,1995-01-18,Biology,2.81,Course 2,Physics,4,Instructor 2,True
+410,1313,COURSE5,2020-09-11,Present,Student313,Doe,Male,1998-04-15,Mathematics,3.7,Course 5,Mathematics,4,Instructor 5,True
+411,1365,COURSE8,2023-06-04,Absent,Student365,Doe,Female,1998-08-29,Mathematics,2.77,Course 8,Physics,3,Instructor 8,False
+412,1469,COURSE14,2020-01-31,Present,Student469,Doe,Female,2001-02-10,Biology,3.68,Course 14,Computer Science,4,Instructor 14,True
+413,1467,COURSE42,2024-04-07,Absent,Student467,Doe,Male,1990-03-18,Mathematics,3.57,Course 42,Biology,3,Instructor 42,False
+414,1053,COURSE35,2024-05-23,Present,Student53,Doe,Male,1994-04-02,Biology,3.89,Course 35,Computer Science,4,Instructor 35,True
+415,1379,COURSE43,2021-07-27,Present,Student379,Doe,Female,1992-05-30,Biology,3.6,Course 43,Physics,3,Instructor 43,True
+416,1173,COURSE23,2022-01-13,Absent,Student173,Doe,Female,1998-10-20,Computer Science,3.03,Course 23,Computer Science,1,Instructor 23,False
+417,1289,COURSE46,2022-07-12,Absent,Student289,Doe,Male,1990-05-17,Physics,3.9,Course 46,Physics,3,Instructor 46,False
+418,1113,COURSE44,2020-12-30,Present,Student113,Doe,Female,1992-09-29,Physics,3.92,Course 44,Mathematics,3,Instructor 44,True
+419,1011,COURSE2,2020-09-09,Present,Student11,Doe,Female,2000-01-21,Biology,2.79,Course 2,Physics,4,Instructor 2,True
+420,1241,COURSE13,2022-10-13,Absent,Student241,Doe,Male,1996-07-09,Physics,2.28,Course 13,Physics,2,Instructor 13,False
+421,1067,COURSE39,2022-02-27,Present,Student67,Doe,Male,2004-09-06,Computer Science,3.84,Course 39,Physics,2,Instructor 39,True
+422,1333,COURSE32,2023-06-05,Present,Student333,Doe,Male,2003-05-25,Computer Science,3.5,Course 32,Computer Science,4,Instructor 32,True
+423,1404,COURSE12,2023-09-13,Absent,Student404,Doe,Female,1997-03-12,Physics,2.12,Course 12,Mathematics,1,Instructor 12,False
+424,1129,COURSE24,2021-05-29,Absent,Student129,Doe,Female,1997-03-11,Physics,3.79,Course 24,Physics,4,Instructor 24,False
+425,1452,COURSE50,2023-08-27,Absent,Student452,Doe,Male,1995-04-17,Biology,2.39,Course 50,Computer Science,4,Instructor 50,False
+426,1482,COURSE37,2023-07-16,Present,Student482,Doe,Male,1994-04-01,Biology,3.81,Course 37,Biology,4,Instructor 37,True
+427,1028,COURSE13,2020-03-04,Present,Student28,Doe,Male,2003-04-13,Biology,2.08,Course 13,Physics,2,Instructor 13,True
+428,1106,COURSE26,2022-03-21,Present,Student106,Doe,Female,1997-05-19,Computer Science,2.97,Course 26,Biology,2,Instructor 26,True
+429,1385,COURSE6,2023-04-26,Absent,Student385,Doe,Male,1996-03-29,Computer Science,3.15,Course 6,Computer Science,2,Instructor 6,False
+430,1491,COURSE49,2022-07-25,Present,Student491,Doe,Male,1996-01-15,Computer Science,3.39,Course 49,Computer Science,4,Instructor 49,True
+431,1255,COURSE17,2024-11-29,Present,Student255,Doe,Male,2005-12-22,Physics,3.88,Course 17,Physics,1,Instructor 17,True
+432,1245,COURSE42,2023-10-20,Present,Student245,Doe,Female,2000-03-11,Biology,2.45,Course 42,Biology,3,Instructor 42,True
+433,1441,COURSE12,2021-09-16,Present,Student441,Doe,Female,2001-01-30,Physics,2.18,Course 12,Mathematics,1,Instructor 12,True
+434,1113,COURSE50,2023-11-28,Present,Student113,Doe,Female,1992-09-29,Physics,3.92,Course 50,Computer Science,4,Instructor 50,True
+435,1227,COURSE8,2023-04-14,Absent,Student227,Doe,Male,1999-11-05,Biology,3.93,Course 8,Physics,3,Instructor 8,False
+436,1121,COURSE32,2021-04-27,Present,Student121,Doe,Male,1990-02-27,Biology,3.77,Course 32,Computer Science,4,Instructor 32,True
+437,1287,COURSE30,2020-03-17,Present,Student287,Doe,Female,2005-04-06,Mathematics,2.98,Course 30,Computer Science,3,Instructor 30,True
+438,1109,COURSE15,2021-12-25,Present,Student109,Doe,Female,2000-11-15,Biology,2.65,Course 15,Biology,1,Instructor 15,True
+439,1403,COURSE50,2024-08-02,Absent,Student403,Doe,Male,1997-05-23,Mathematics,3.51,Course 50,Computer Science,4,Instructor 50,False
+440,1151,COURSE34,2023-09-13,Present,Student151,Doe,Male,1995-06-08,Computer Science,2.09,Course 34,Mathematics,3,Instructor 34,True
+441,1400,COURSE43,2024-07-23,Absent,Student400,Doe,Male,1998-01-13,Mathematics,3.15,Course 43,Physics,3,Instructor 43,False
+442,1327,COURSE23,2024-06-04,Absent,Student327,Doe,Male,1998-12-27,Physics,3.67,Course 23,Computer Science,1,Instructor 23,False
+443,1007,COURSE12,2020-07-03,Absent,Student7,Doe,Male,1999-08-20,Biology,3.17,Course 12,Mathematics,1,Instructor 12,False
+444,1096,COURSE40,2022-06-18,Present,Student96,Doe,Female,2005-06-20,Computer Science,2.95,Course 40,Physics,2,Instructor 40,True
+445,1097,COURSE27,2021-02-02,Absent,Student97,Doe,Female,2003-02-27,Mathematics,3.94,Course 27,Biology,2,Instructor 27,False
+446,1280,COURSE41,2023-05-09,Absent,Student280,Doe,Female,1997-06-19,Physics,3.75,Course 41,Biology,2,Instructor 41,False
+447,1330,COURSE25,2021-07-30,Absent,Student330,Doe,Female,1999-08-02,Computer Science,2.84,Course 25,Biology,1,Instructor 25,False
+448,1315,COURSE22,2021-03-01,Present,Student315,Doe,Female,1996-10-14,Mathematics,3.18,Course 22,Biology,2,Instructor 22,True
+449,1198,COURSE4,2022-07-22,Present,Student198,Doe,Male,1990-07-03,Computer Science,2.29,Course 4,Biology,4,Instructor 4,True
+450,1059,COURSE26,2024-07-10,Present,Student59,Doe,Female,1998-04-12,Computer Science,3.62,Course 26,Biology,2,Instructor 26,True
+451,1347,COURSE40,2024-12-24,Present,Student347,Doe,Female,2002-06-06,Biology,2.31,Course 40,Physics,2,Instructor 40,True
+452,1099,COURSE22,2020-04-13,Present,Student99,Doe,Female,2002-12-16,Computer Science,2.04,Course 22,Biology,2,Instructor 22,True
+453,1390,COURSE44,2023-04-12,Absent,Student390,Doe,Male,2003-03-17,Physics,3.08,Course 44,Mathematics,3,Instructor 44,False
+454,1249,COURSE13,2023-07-26,Absent,Student249,Doe,Female,1998-04-14,Physics,2.19,Course 13,Physics,2,Instructor 13,False
+455,1232,COURSE6,2024-05-26,Absent,Student232,Doe,Male,2005-02-18,Biology,2.17,Course 6,Computer Science,2,Instructor 6,False
+456,1143,COURSE20,2023-01-14,Present,Student143,Doe,Male,1990-06-21,Biology,3.74,Course 20,Computer Science,1,Instructor 20,True
+457,1287,COURSE16,2021-12-15,Absent,Student287,Doe,Female,2005-04-06,Mathematics,2.98,Course 16,Biology,4,Instructor 16,False
+458,1153,COURSE34,2022-09-02,Absent,Student153,Doe,Female,1993-11-17,Mathematics,3.92,Course 34,Mathematics,3,Instructor 34,False
+459,1280,COURSE9,2021-03-14,Absent,Student280,Doe,Female,1997-06-19,Physics,3.75,Course 9,Biology,1,Instructor 9,False
+460,1124,COURSE38,2024-01-17,Absent,Student124,Doe,Female,1994-11-03,Computer Science,2.93,Course 38,Physics,2,Instructor 38,False
+461,1467,COURSE11,2023-07-30,Absent,Student467,Doe,Male,1990-03-18,Mathematics,3.57,Course 11,Biology,2,Instructor 11,False
+462,1274,COURSE50,2021-08-12,Absent,Student274,Doe,Female,1996-11-15,Biology,2.79,Course 50,Computer Science,4,Instructor 50,False
+463,1406,COURSE35,2024-09-14,Absent,Student406,Doe,Female,1991-05-03,Physics,2.45,Course 35,Computer Science,4,Instructor 35,False
+464,1488,COURSE27,2024-10-17,Absent,Student488,Doe,Male,1998-07-21,Biology,2.14,Course 27,Biology,2,Instructor 27,False
+465,1073,COURSE24,2024-08-20,Absent,Student73,Doe,Male,1990-10-12,Physics,3.77,Course 24,Physics,4,Instructor 24,False
+466,1356,COURSE28,2021-05-08,Present,Student356,Doe,Male,2003-05-24,Computer Science,3.39,Course 28,Physics,1,Instructor 28,True
+467,1220,COURSE8,2021-10-18,Present,Student220,Doe,Male,2002-05-29,Computer Science,3.34,Course 8,Physics,3,Instructor 8,True
+468,1239,COURSE39,2022-07-15,Present,Student239,Doe,Male,1998-10-05,Mathematics,3.3,Course 39,Physics,2,Instructor 39,True
+469,1225,COURSE32,2020-10-19,Absent,Student225,Doe,Female,1999-09-15,Biology,2.88,Course 32,Computer Science,4,Instructor 32,False
+470,1406,COURSE48,2024-12-03,Present,Student406,Doe,Female,1991-05-03,Physics,2.45,Course 48,Computer Science,3,Instructor 48,True
+471,1380,COURSE37,2022-03-22,Present,Student380,Doe,Female,2001-09-16,Physics,2.66,Course 37,Biology,4,Instructor 37,True
+472,1299,COURSE18,2022-01-08,Present,Student299,Doe,Female,1991-07-13,Computer Science,2.52,Course 18,Physics,3,Instructor 18,True
+473,1330,COURSE40,2021-10-29,Absent,Student330,Doe,Female,1999-08-02,Computer Science,2.84,Course 40,Physics,2,Instructor 40,False
+474,1062,COURSE46,2023-04-18,Present,Student62,Doe,Male,1999-11-30,Physics,3.78,Course 46,Physics,3,Instructor 46,True
+475,1021,COURSE6,2024-11-30,Present,Student21,Doe,Male,2003-01-17,Biology,3.03,Course 6,Computer Science,2,Instructor 6,True
+476,1352,COURSE24,2023-11-23,Present,Student352,Doe,Female,2003-04-17,Physics,2.72,Course 24,Physics,4,Instructor 24,True
+477,1119,COURSE43,2021-07-08,Absent,Student119,Doe,Male,2001-06-03,Computer Science,2.54,Course 43,Physics,3,Instructor 43,False
+478,1139,COURSE32,2021-09-13,Absent,Student139,Doe,Male,1999-10-05,Mathematics,3.96,Course 32,Computer Science,4,Instructor 32,False
+479,1437,COURSE43,2023-02-06,Absent,Student437,Doe,Female,2000-02-29,Mathematics,2.42,Course 43,Physics,3,Instructor 43,False
+480,1328,COURSE38,2022-04-17,Absent,Student328,Doe,Female,1996-02-17,Biology,2.09,Course 38,Physics,2,Instructor 38,False
+481,1418,COURSE14,2021-12-11,Present,Student418,Doe,Female,1995-05-11,Physics,2.1,Course 14,Computer Science,4,Instructor 14,True
+482,1282,COURSE15,2024-11-28,Present,Student282,Doe,Male,1998-06-17,Physics,2.8,Course 15,Biology,1,Instructor 15,True
+483,1336,COURSE9,2022-12-11,Absent,Student336,Doe,Male,2005-11-18,Computer Science,2.86,Course 9,Biology,1,Instructor 9,False
+484,1225,COURSE1,2022-06-07,Absent,Student225,Doe,Female,1999-09-15,Biology,2.88,Course 1,Mathematics,2,Instructor 1,False
+485,1498,COURSE16,2023-12-26,Absent,Student498,Doe,Female,1991-07-28,Biology,3.53,Course 16,Biology,4,Instructor 16,False
+486,1484,COURSE22,2020-01-31,Present,Student484,Doe,Female,2004-11-13,Physics,3.27,Course 22,Biology,2,Instructor 22,True
+487,1070,COURSE50,2020-10-27,Present,Student70,Doe,Female,1991-12-11,Physics,3.36,Course 50,Computer Science,4,Instructor 50,True
+488,1379,COURSE32,2020-03-06,Present,Student379,Doe,Female,1992-05-30,Biology,3.6,Course 32,Computer Science,4,Instructor 32,True
+489,1471,COURSE27,2024-09-18,Absent,Student471,Doe,Male,1999-07-06,Biology,2.1,Course 27,Biology,2,Instructor 27,False
+490,1135,COURSE23,2022-04-20,Present,Student135,Doe,Male,2003-11-15,Mathematics,2.74,Course 23,Computer Science,1,Instructor 23,True
+491,1010,COURSE5,2020-02-03,Present,Student10,Doe,Male,2000-10-30,Physics,2.09,Course 5,Mathematics,4,Instructor 5,True
+492,1053,COURSE34,2023-12-20,Present,Student53,Doe,Male,1994-04-02,Biology,3.89,Course 34,Mathematics,3,Instructor 34,True
+493,1203,COURSE34,2022-01-26,Absent,Student203,Doe,Male,2004-08-13,Physics,2.47,Course 34,Mathematics,3,Instructor 34,False
+494,1446,COURSE32,2022-08-11,Absent,Student446,Doe,Female,2003-07-12,Mathematics,2.03,Course 32,Computer Science,4,Instructor 32,False
+495,1147,COURSE43,2023-08-21,Present,Student147,Doe,Male,1999-04-03,Biology,2.46,Course 43,Physics,3,Instructor 43,True
+496,1041,COURSE1,2022-08-08,Present,Student41,Doe,Female,1996-09-02,Biology,2.22,Course 1,Mathematics,2,Instructor 1,True
+497,1079,COURSE47,2022-06-25,Absent,Student79,Doe,Male,1996-06-07,Biology,3.18,Course 47,Mathematics,2,Instructor 47,False
+498,1066,COURSE7,2020-08-01,Present,Student66,Doe,Female,1991-10-10,Physics,2.15,Course 7,Mathematics,4,Instructor 7,True
+499,1400,COURSE35,2020-01-21,Present,Student400,Doe,Male,1998-01-13,Mathematics,3.15,Course 35,Computer Science,4,Instructor 35,True
+500,1364,COURSE49,2023-01-07,Present,Student364,Doe,Male,1991-12-09,Computer Science,3.89,Course 49,Computer Science,4,Instructor 49,True
+501,1028,COURSE9,2023-09-11,Absent,Student28,Doe,Male,2003-04-13,Biology,2.08,Course 9,Biology,1,Instructor 9,False
+502,1329,COURSE42,2020-02-07,Present,Student329,Doe,Male,1992-01-11,Computer Science,2.1,Course 42,Biology,3,Instructor 42,True
+503,1278,COURSE26,2020-04-13,Present,Student278,Doe,Female,1992-05-06,Physics,3.36,Course 26,Biology,2,Instructor 26,True
+504,1414,COURSE15,2021-01-31,Absent,Student414,Doe,Female,1992-07-17,Biology,2.09,Course 15,Biology,1,Instructor 15,False
+505,1103,COURSE33,2024-01-13,Present,Student103,Doe,Male,1999-07-13,Physics,2.07,Course 33,Biology,4,Instructor 33,True
+506,1008,COURSE41,2021-08-04,Present,Student8,Doe,Female,1997-06-18,Mathematics,2.27,Course 41,Biology,2,Instructor 41,True
+507,1248,COURSE17,2022-12-31,Absent,Student248,Doe,Male,2002-07-10,Mathematics,3.47,Course 17,Physics,1,Instructor 17,False
+508,1405,COURSE33,2024-10-26,Present,Student405,Doe,Female,1993-03-24,Computer Science,2.68,Course 33,Biology,4,Instructor 33,True
+509,1241,COURSE10,2024-07-12,Absent,Student241,Doe,Male,1996-07-09,Physics,2.28,Course 10,Biology,3,Instructor 10,False
+510,1122,COURSE10,2020-09-08,Present,Student122,Doe,Female,2005-12-20,Physics,2.23,Course 10,Biology,3,Instructor 10,True
+511,1128,COURSE40,2024-05-23,Present,Student128,Doe,Male,1992-03-24,Computer Science,3.35,Course 40,Physics,2,Instructor 40,True
+512,1168,COURSE29,2020-06-30,Present,Student168,Doe,Female,1991-10-14,Computer Science,2.67,Course 29,Mathematics,1,Instructor 29,True
+513,1356,COURSE35,2024-02-12,Absent,Student356,Doe,Male,2003-05-24,Computer Science,3.39,Course 35,Computer Science,4,Instructor 35,False
+514,1480,COURSE44,2020-09-10,Absent,Student480,Doe,Male,1991-08-12,Computer Science,2.66,Course 44,Mathematics,3,Instructor 44,False
+515,1411,COURSE48,2022-02-05,Absent,Student411,Doe,Male,2005-01-28,Computer Science,3.41,Course 48,Computer Science,3,Instructor 48,False
+516,1221,COURSE31,2024-04-23,Absent,Student221,Doe,Female,1994-04-20,Mathematics,3.51,Course 31,Computer Science,1,Instructor 31,False
+517,1409,COURSE26,2021-03-24,Present,Student409,Doe,Male,1997-07-05,Computer Science,2.75,Course 26,Biology,2,Instructor 26,True
+518,1352,COURSE35,2020-07-07,Absent,Student352,Doe,Female,2003-04-17,Physics,2.72,Course 35,Computer Science,4,Instructor 35,False
+519,1215,COURSE12,2022-08-06,Absent,Student215,Doe,Female,1996-01-10,Computer Science,3.57,Course 12,Mathematics,1,Instructor 12,False
+520,1185,COURSE13,2020-10-10,Present,Student185,Doe,Female,2005-05-20,Mathematics,3.44,Course 13,Physics,2,Instructor 13,True
+521,1411,COURSE20,2024-12-08,Present,Student411,Doe,Male,2005-01-28,Computer Science,3.41,Course 20,Computer Science,1,Instructor 20,True
+522,1384,COURSE41,2024-12-29,Absent,Student384,Doe,Female,1998-02-01,Physics,3.6,Course 41,Biology,2,Instructor 41,False
+523,1292,COURSE13,2020-04-21,Absent,Student292,Doe,Male,1998-10-02,Biology,3.51,Course 13,Physics,2,Instructor 13,False
+524,1405,COURSE41,2023-09-10,Absent,Student405,Doe,Female,1993-03-24,Computer Science,2.68,Course 41,Biology,2,Instructor 41,False
+525,1333,COURSE39,2022-11-05,Present,Student333,Doe,Male,2003-05-25,Computer Science,3.5,Course 39,Physics,2,Instructor 39,True
+526,1436,COURSE16,2020-08-28,Present,Student436,Doe,Female,1991-08-29,Biology,2.17,Course 16,Biology,4,Instructor 16,True
+527,1420,COURSE46,2023-03-26,Present,Student420,Doe,Female,1991-07-12,Mathematics,3.21,Course 46,Physics,3,Instructor 46,True
+528,1469,COURSE4,2024-09-29,Present,Student469,Doe,Female,2001-02-10,Biology,3.68,Course 4,Biology,4,Instructor 4,True
+529,1056,COURSE30,2022-05-04,Present,Student56,Doe,Male,1996-05-30,Computer Science,3.77,Course 30,Computer Science,3,Instructor 30,True
+530,1237,COURSE3,2021-01-24,Present,Student237,Doe,Male,2001-08-06,Mathematics,3.74,Course 3,Computer Science,2,Instructor 3,True
+531,1069,COURSE47,2024-03-22,Absent,Student69,Doe,Male,2005-06-24,Computer Science,2.09,Course 47,Mathematics,2,Instructor 47,False
+532,1291,COURSE39,2023-12-30,Present,Student291,Doe,Male,2003-04-14,Physics,3.61,Course 39,Physics,2,Instructor 39,True
+533,1181,COURSE39,2023-07-25,Absent,Student181,Doe,Female,1997-12-22,Biology,3.21,Course 39,Physics,2,Instructor 39,False
+534,1200,COURSE13,2020-05-17,Absent,Student200,Doe,Female,2002-08-19,Biology,2.77,Course 13,Physics,2,Instructor 13,False
+535,1443,COURSE45,2024-02-02,Absent,Student443,Doe,Male,2003-09-07,Physics,3.15,Course 45,Computer Science,4,Instructor 45,False
+536,1318,COURSE17,2024-12-30,Absent,Student318,Doe,Male,1998-12-03,Computer Science,3.61,Course 17,Physics,1,Instructor 17,False
+537,1384,COURSE8,2020-10-17,Absent,Student384,Doe,Female,1998-02-01,Physics,3.6,Course 8,Physics,3,Instructor 8,False
+538,1224,COURSE7,2021-05-23,Present,Student224,Doe,Male,1999-06-28,Computer Science,3.85,Course 7,Mathematics,4,Instructor 7,True
+539,1303,COURSE28,2023-09-24,Present,Student303,Doe,Female,1992-12-30,Biology,3.21,Course 28,Physics,1,Instructor 28,True
+540,1095,COURSE50,2024-12-21,Absent,Student95,Doe,Female,1998-05-15,Computer Science,2.78,Course 50,Computer Science,4,Instructor 50,False
+541,1172,COURSE23,2023-08-13,Absent,Student172,Doe,Male,1999-08-05,Mathematics,2.76,Course 23,Computer Science,1,Instructor 23,False
+542,1199,COURSE18,2022-10-14,Absent,Student199,Doe,Male,2002-11-09,Mathematics,2.46,Course 18,Physics,3,Instructor 18,False
+543,1190,COURSE1,2022-11-26,Present,Student190,Doe,Male,1995-01-18,Biology,2.81,Course 1,Mathematics,2,Instructor 1,True
+544,1353,COURSE39,2022-07-12,Absent,Student353,Doe,Male,2001-02-10,Computer Science,2.94,Course 39,Physics,2,Instructor 39,False
+545,1147,COURSE23,2022-05-20,Present,Student147,Doe,Male,1999-04-03,Biology,2.46,Course 23,Computer Science,1,Instructor 23,True
+546,1172,COURSE17,2020-10-04,Absent,Student172,Doe,Male,1999-08-05,Mathematics,2.76,Course 17,Physics,1,Instructor 17,False
+547,1388,COURSE28,2023-08-20,Absent,Student388,Doe,Male,1990-09-23,Computer Science,3.23,Course 28,Physics,1,Instructor 28,False
+548,1430,COURSE5,2022-07-22,Present,Student430,Doe,Female,2001-03-29,Mathematics,3.38,Course 5,Mathematics,4,Instructor 5,True
+549,1408,COURSE18,2024-06-08,Absent,Student408,Doe,Female,1990-02-22,Biology,2.65,Course 18,Physics,3,Instructor 18,False
+550,1214,COURSE17,2022-06-17,Present,Student214,Doe,Female,1992-06-29,Biology,2.81,Course 17,Physics,1,Instructor 17,True
+551,1208,COURSE27,2022-10-27,Absent,Student208,Doe,Female,1992-10-08,Mathematics,3.97,Course 27,Biology,2,Instructor 27,False
+552,1253,COURSE10,2023-04-08,Present,Student253,Doe,Male,1999-08-30,Biology,3.63,Course 10,Biology,3,Instructor 10,True
+553,1092,COURSE5,2022-02-09,Absent,Student92,Doe,Male,1990-04-22,Biology,3.3,Course 5,Mathematics,4,Instructor 5,False
+554,1073,COURSE28,2022-03-01,Present,Student73,Doe,Male,1990-10-12,Physics,3.77,Course 28,Physics,1,Instructor 28,True
+555,1323,COURSE22,2021-12-14,Absent,Student323,Doe,Male,2005-10-13,Physics,3.81,Course 22,Biology,2,Instructor 22,False
+556,1142,COURSE16,2021-02-14,Present,Student142,Doe,Male,1996-04-02,Biology,2.39,Course 16,Biology,4,Instructor 16,True
+557,1281,COURSE35,2022-02-09,Present,Student281,Doe,Male,2003-11-27,Physics,3.44,Course 35,Computer Science,4,Instructor 35,True
+558,1360,COURSE29,2024-08-27,Absent,Student360,Doe,Male,1998-11-11,Physics,3.23,Course 29,Mathematics,1,Instructor 29,False
+559,1430,COURSE46,2023-01-11,Present,Student430,Doe,Female,2001-03-29,Mathematics,3.38,Course 46,Physics,3,Instructor 46,True
+560,1301,COURSE24,2022-12-27,Absent,Student301,Doe,Male,1996-02-09,Computer Science,2.21,Course 24,Physics,4,Instructor 24,False
+561,1066,COURSE29,2023-02-18,Present,Student66,Doe,Female,1991-10-10,Physics,2.15,Course 29,Mathematics,1,Instructor 29,True
+562,1001,COURSE39,2023-03-06,Present,Student1,Doe,Female,2004-09-03,Physics,2.33,Course 39,Physics,2,Instructor 39,True
+563,1392,COURSE19,2020-06-05,Present,Student392,Doe,Female,1995-01-06,Physics,3.3,Course 19,Biology,4,Instructor 19,True
+564,1469,COURSE45,2020-10-10,Present,Student469,Doe,Female,2001-02-10,Biology,3.68,Course 45,Computer Science,4,Instructor 45,True
+565,1036,COURSE5,2022-10-21,Present,Student36,Doe,Male,2000-12-03,Physics,2.69,Course 5,Mathematics,4,Instructor 5,True
+566,1228,COURSE29,2023-12-09,Present,Student228,Doe,Male,1995-08-27,Physics,3.71,Course 29,Mathematics,1,Instructor 29,True
+567,1193,COURSE30,2022-11-06,Absent,Student193,Doe,Female,1990-04-21,Biology,2.33,Course 30,Computer Science,3,Instructor 30,False
+568,1134,COURSE9,2020-02-23,Absent,Student134,Doe,Female,2001-08-17,Physics,3.23,Course 9,Biology,1,Instructor 9,False
+569,1291,COURSE17,2023-08-30,Present,Student291,Doe,Male,2003-04-14,Physics,3.61,Course 17,Physics,1,Instructor 17,True
+570,1186,COURSE10,2023-08-12,Absent,Student186,Doe,Female,2003-01-12,Physics,3.92,Course 10,Biology,3,Instructor 10,False
+571,1094,COURSE25,2020-08-21,Present,Student94,Doe,Male,1997-03-08,Physics,3.63,Course 25,Biology,1,Instructor 25,True
+572,1059,COURSE6,2022-10-23,Present,Student59,Doe,Female,1998-04-12,Computer Science,3.62,Course 6,Computer Science,2,Instructor 6,True
+573,1137,COURSE47,2021-03-06,Absent,Student137,Doe,Female,2002-11-21,Computer Science,2.28,Course 47,Mathematics,2,Instructor 47,False
+574,1058,COURSE32,2023-02-24,Absent,Student58,Doe,Male,2000-12-22,Computer Science,2.19,Course 32,Computer Science,4,Instructor 32,False
+575,1358,COURSE32,2020-05-04,Present,Student358,Doe,Female,2000-04-22,Physics,2.85,Course 32,Computer Science,4,Instructor 32,True
+576,1289,COURSE15,2021-09-09,Absent,Student289,Doe,Male,1990-05-17,Physics,3.9,Course 15,Biology,1,Instructor 15,False
+577,1382,COURSE4,2022-07-02,Present,Student382,Doe,Female,2000-02-02,Biology,2.41,Course 4,Biology,4,Instructor 4,True
+578,1029,COURSE8,2023-03-08,Absent,Student29,Doe,Female,1994-07-30,Physics,2.21,Course 8,Physics,3,Instructor 8,False
+579,1336,COURSE49,2024-07-05,Absent,Student336,Doe,Male,2005-11-18,Computer Science,2.86,Course 49,Computer Science,4,Instructor 49,False
+580,1247,COURSE34,2021-11-05,Absent,Student247,Doe,Female,1997-07-16,Computer Science,3.4,Course 34,Mathematics,3,Instructor 34,False
+581,1040,COURSE13,2023-07-25,Present,Student40,Doe,Female,2001-03-15,Computer Science,2.42,Course 13,Physics,2,Instructor 13,True
+582,1077,COURSE39,2022-05-03,Present,Student77,Doe,Male,2000-04-22,Biology,2.91,Course 39,Physics,2,Instructor 39,True
+583,1003,COURSE7,2020-01-16,Absent,Student3,Doe,Male,2001-08-11,Biology,3.04,Course 7,Mathematics,4,Instructor 7,False
+584,1285,COURSE35,2024-10-09,Present,Student285,Doe,Male,2000-11-14,Physics,2.7,Course 35,Computer Science,4,Instructor 35,True
+585,1063,COURSE20,2021-12-04,Present,Student63,Doe,Male,1994-01-01,Computer Science,3.43,Course 20,Computer Science,1,Instructor 20,True
+586,1420,COURSE12,2020-12-29,Present,Student420,Doe,Female,1991-07-12,Mathematics,3.21,Course 12,Mathematics,1,Instructor 12,True
+587,1162,COURSE17,2022-08-03,Absent,Student162,Doe,Male,1993-12-12,Physics,3.98,Course 17,Physics,1,Instructor 17,False
+588,1136,COURSE11,2021-11-13,Present,Student136,Doe,Male,1997-03-19,Computer Science,2.69,Course 11,Biology,2,Instructor 11,True
+589,1254,COURSE7,2024-03-18,Present,Student254,Doe,Female,1994-10-03,Biology,2.83,Course 7,Mathematics,4,Instructor 7,True
+590,1486,COURSE42,2021-03-05,Absent,Student486,Doe,Male,2000-06-22,Physics,2.25,Course 42,Biology,3,Instructor 42,False
+591,1220,COURSE34,2020-07-30,Present,Student220,Doe,Male,2002-05-29,Computer Science,3.34,Course 34,Mathematics,3,Instructor 34,True
+592,1418,COURSE25,2024-03-19,Present,Student418,Doe,Female,1995-05-11,Physics,2.1,Course 25,Biology,1,Instructor 25,True
+593,1340,COURSE2,2021-08-21,Present,Student340,Doe,Female,1996-03-19,Physics,2.91,Course 2,Physics,4,Instructor 2,True
+594,1334,COURSE47,2023-05-03,Absent,Student334,Doe,Male,2001-10-03,Physics,2.62,Course 47,Mathematics,2,Instructor 47,False
+595,1411,COURSE36,2021-11-28,Absent,Student411,Doe,Male,2005-01-28,Computer Science,3.41,Course 36,Computer Science,4,Instructor 36,False
+596,1422,COURSE10,2022-07-27,Absent,Student422,Doe,Male,1995-11-10,Mathematics,2.05,Course 10,Biology,3,Instructor 10,False
+597,1058,COURSE3,2024-07-20,Absent,Student58,Doe,Male,2000-12-22,Computer Science,2.19,Course 3,Computer Science,2,Instructor 3,False
+598,1269,COURSE23,2021-09-14,Present,Student269,Doe,Male,1994-10-26,Physics,3.48,Course 23,Computer Science,1,Instructor 23,True
+599,1028,COURSE1,2024-06-13,Absent,Student28,Doe,Male,2003-04-13,Biology,2.08,Course 1,Mathematics,2,Instructor 1,False
+600,1359,COURSE40,2022-02-28,Absent,Student359,Doe,Male,2001-03-17,Computer Science,2.19,Course 40,Physics,2,Instructor 40,False
+601,1206,COURSE18,2024-09-25,Absent,Student206,Doe,Female,2005-04-17,Mathematics,2.38,Course 18,Physics,3,Instructor 18,False
+602,1162,COURSE15,2023-02-14,Absent,Student162,Doe,Male,1993-12-12,Physics,3.98,Course 15,Biology,1,Instructor 15,False
+603,1312,COURSE49,2020-08-04,Present,Student312,Doe,Male,1995-02-11,Computer Science,3.17,Course 49,Computer Science,4,Instructor 49,True
+604,1040,COURSE26,2022-09-03,Present,Student40,Doe,Female,2001-03-15,Computer Science,2.42,Course 26,Biology,2,Instructor 26,True
+605,1112,COURSE47,2023-10-06,Absent,Student112,Doe,Male,1991-09-01,Physics,3.66,Course 47,Mathematics,2,Instructor 47,False
+606,1425,COURSE27,2021-05-14,Absent,Student425,Doe,Male,1999-05-27,Computer Science,3.76,Course 27,Biology,2,Instructor 27,False
+607,1489,COURSE11,2024-04-28,Present,Student489,Doe,Female,1998-08-30,Mathematics,3.53,Course 11,Biology,2,Instructor 11,True
+608,1234,COURSE48,2020-08-17,Present,Student234,Doe,Male,1997-10-31,Computer Science,3.77,Course 48,Computer Science,3,Instructor 48,True
+609,1458,COURSE36,2022-02-12,Present,Student458,Doe,Female,1992-03-11,Physics,2.33,Course 36,Computer Science,4,Instructor 36,True
+610,1207,COURSE2,2024-10-15,Absent,Student207,Doe,Male,2002-07-30,Computer Science,2.22,Course 2,Physics,4,Instructor 2,False
+611,1107,COURSE5,2022-10-25,Present,Student107,Doe,Female,1997-05-05,Biology,2.76,Course 5,Mathematics,4,Instructor 5,True
+612,1141,COURSE10,2021-04-20,Present,Student141,Doe,Male,2001-12-17,Mathematics,2.51,Course 10,Biology,3,Instructor 10,True
+613,1444,COURSE26,2024-06-16,Present,Student444,Doe,Female,2002-02-12,Mathematics,2.23,Course 26,Biology,2,Instructor 26,True
+614,1013,COURSE2,2023-09-12,Absent,Student13,Doe,Male,1996-07-24,Biology,2.93,Course 2,Physics,4,Instructor 2,False
+615,1087,COURSE26,2023-09-07,Present,Student87,Doe,Male,1990-12-23,Biology,2.89,Course 26,Biology,2,Instructor 26,True
+616,1475,COURSE31,2020-11-02,Present,Student475,Doe,Male,1995-11-08,Physics,2.51,Course 31,Computer Science,1,Instructor 31,True
+617,1369,COURSE49,2021-04-18,Present,Student369,Doe,Female,1990-05-09,Biology,3.49,Course 49,Computer Science,4,Instructor 49,True
+618,1482,COURSE33,2020-12-27,Absent,Student482,Doe,Male,1994-04-01,Biology,3.81,Course 33,Biology,4,Instructor 33,False
+619,1434,COURSE3,2024-08-23,Absent,Student434,Doe,Female,2001-07-04,Physics,3.98,Course 3,Computer Science,2,Instructor 3,False
+620,1338,COURSE28,2022-04-29,Present,Student338,Doe,Female,1990-10-29,Biology,2.41,Course 28,Physics,1,Instructor 28,True
+621,1165,COURSE24,2020-10-12,Absent,Student165,Doe,Female,1998-08-26,Biology,2.11,Course 24,Physics,4,Instructor 24,False
+622,1168,COURSE50,2023-01-23,Absent,Student168,Doe,Female,1991-10-14,Computer Science,2.67,Course 50,Computer Science,4,Instructor 50,False
+623,1035,COURSE26,2021-04-30,Present,Student35,Doe,Male,2002-11-08,Computer Science,3.76,Course 26,Biology,2,Instructor 26,True
+624,1459,COURSE26,2020-11-06,Absent,Student459,Doe,Female,1999-07-10,Computer Science,3.31,Course 26,Biology,2,Instructor 26,False
+625,1025,COURSE20,2024-11-07,Absent,Student25,Doe,Female,1990-01-26,Biology,3.33,Course 20,Computer Science,1,Instructor 20,False
+626,1383,COURSE42,2024-10-01,Present,Student383,Doe,Male,2002-08-06,Mathematics,2.93,Course 42,Biology,3,Instructor 42,True
+627,1261,COURSE35,2022-03-22,Absent,Student261,Doe,Female,1990-07-04,Mathematics,2.46,Course 35,Computer Science,4,Instructor 35,False
+628,1060,COURSE9,2024-09-30,Present,Student60,Doe,Female,2005-09-22,Computer Science,2.4,Course 9,Biology,1,Instructor 9,True
+629,1120,COURSE35,2020-06-23,Absent,Student120,Doe,Female,1998-10-24,Computer Science,2.63,Course 35,Computer Science,4,Instructor 35,False
+630,1257,COURSE43,2022-10-22,Absent,Student257,Doe,Female,1997-06-16,Biology,3.41,Course 43,Physics,3,Instructor 43,False
+631,1106,COURSE12,2024-10-11,Present,Student106,Doe,Female,1997-05-19,Computer Science,2.97,Course 12,Mathematics,1,Instructor 12,True
+632,1436,COURSE40,2021-01-30,Absent,Student436,Doe,Female,1991-08-29,Biology,2.17,Course 40,Physics,2,Instructor 40,False
+633,1317,COURSE8,2022-04-28,Absent,Student317,Doe,Female,1991-11-19,Mathematics,2.6,Course 8,Physics,3,Instructor 8,False
+634,1177,COURSE9,2024-08-25,Absent,Student177,Doe,Male,2000-05-25,Mathematics,3.32,Course 9,Biology,1,Instructor 9,False
+635,1200,COURSE28,2021-09-29,Present,Student200,Doe,Female,2002-08-19,Biology,2.77,Course 28,Physics,1,Instructor 28,True
+636,1315,COURSE21,2020-12-20,Present,Student315,Doe,Female,1996-10-14,Mathematics,3.18,Course 21,Computer Science,4,Instructor 21,True
+637,1254,COURSE9,2023-05-10,Absent,Student254,Doe,Female,1994-10-03,Biology,2.83,Course 9,Biology,1,Instructor 9,False
+638,1180,COURSE2,2022-04-13,Absent,Student180,Doe,Female,1992-07-09,Biology,3.94,Course 2,Physics,4,Instructor 2,False
+639,1115,COURSE31,2023-12-26,Present,Student115,Doe,Female,1992-12-19,Physics,3.05,Course 31,Computer Science,1,Instructor 31,True
+640,1027,COURSE47,2024-10-02,Present,Student27,Doe,Female,2003-03-17,Computer Science,2.18,Course 47,Mathematics,2,Instructor 47,True
+641,1191,COURSE48,2022-02-14,Absent,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 48,Computer Science,3,Instructor 48,False
+642,1391,COURSE44,2024-06-07,Present,Student391,Doe,Male,1995-11-19,Mathematics,2.49,Course 44,Mathematics,3,Instructor 44,True
+643,1194,COURSE36,2023-04-10,Present,Student194,Doe,Male,1997-10-20,Biology,2.29,Course 36,Computer Science,4,Instructor 36,True
+644,1228,COURSE19,2022-07-20,Absent,Student228,Doe,Male,1995-08-27,Physics,3.71,Course 19,Biology,4,Instructor 19,False
+645,1282,COURSE33,2020-02-26,Present,Student282,Doe,Male,1998-06-17,Physics,2.8,Course 33,Biology,4,Instructor 33,True
+646,1232,COURSE22,2021-03-07,Present,Student232,Doe,Male,2005-02-18,Biology,2.17,Course 22,Biology,2,Instructor 22,True
+647,1216,COURSE18,2022-06-07,Absent,Student216,Doe,Female,1992-02-02,Biology,2.56,Course 18,Physics,3,Instructor 18,False
+648,1133,COURSE4,2020-10-23,Absent,Student133,Doe,Male,2005-06-20,Mathematics,3.27,Course 4,Biology,4,Instructor 4,False
+649,1312,COURSE40,2024-03-31,Present,Student312,Doe,Male,1995-02-11,Computer Science,3.17,Course 40,Physics,2,Instructor 40,True
+650,1002,COURSE14,2020-04-08,Present,Student2,Doe,Female,2001-05-13,Computer Science,2.07,Course 14,Computer Science,4,Instructor 14,True
+651,1106,COURSE9,2022-08-19,Present,Student106,Doe,Female,1997-05-19,Computer Science,2.97,Course 9,Biology,1,Instructor 9,True
+652,1220,COURSE3,2022-05-06,Present,Student220,Doe,Male,2002-05-29,Computer Science,3.34,Course 3,Computer Science,2,Instructor 3,True
+653,1223,COURSE14,2023-07-15,Present,Student223,Doe,Female,1993-11-29,Computer Science,2.8,Course 14,Computer Science,4,Instructor 14,True
+654,1196,COURSE33,2021-04-24,Absent,Student196,Doe,Female,2001-10-02,Physics,2.32,Course 33,Biology,4,Instructor 33,False
+655,1006,COURSE24,2022-02-16,Present,Student6,Doe,Female,1998-10-04,Mathematics,2.88,Course 24,Physics,4,Instructor 24,True
+656,1346,COURSE3,2021-07-29,Absent,Student346,Doe,Male,1991-09-05,Mathematics,2.07,Course 3,Computer Science,2,Instructor 3,False
+657,1329,COURSE25,2020-11-30,Absent,Student329,Doe,Male,1992-01-11,Computer Science,2.1,Course 25,Biology,1,Instructor 25,False
+658,1008,COURSE26,2024-09-30,Absent,Student8,Doe,Female,1997-06-18,Mathematics,2.27,Course 26,Biology,2,Instructor 26,False
+659,1297,COURSE29,2024-06-07,Absent,Student297,Doe,Female,1990-11-20,Biology,3.5,Course 29,Mathematics,1,Instructor 29,False
+660,1279,COURSE23,2024-04-13,Absent,Student279,Doe,Male,1997-03-31,Mathematics,3.58,Course 23,Computer Science,1,Instructor 23,False
+661,1326,COURSE43,2023-02-11,Absent,Student326,Doe,Male,2003-05-18,Biology,2.57,Course 43,Physics,3,Instructor 43,False
+662,1129,COURSE42,2022-03-07,Absent,Student129,Doe,Female,1997-03-11,Physics,3.79,Course 42,Biology,3,Instructor 42,False
+663,1219,COURSE48,2020-05-14,Present,Student219,Doe,Female,2004-12-05,Biology,3.21,Course 48,Computer Science,3,Instructor 48,True
+664,1088,COURSE42,2020-01-26,Absent,Student88,Doe,Female,1995-10-19,Physics,3.16,Course 42,Biology,3,Instructor 42,False
+665,1421,COURSE45,2024-10-26,Present,Student421,Doe,Female,1991-02-03,Mathematics,3.49,Course 45,Computer Science,4,Instructor 45,True
+666,1341,COURSE14,2022-08-17,Present,Student341,Doe,Male,1995-04-11,Computer Science,3.13,Course 14,Computer Science,4,Instructor 14,True
+667,1375,COURSE1,2023-09-23,Absent,Student375,Doe,Male,1998-02-20,Biology,3.49,Course 1,Mathematics,2,Instructor 1,False
+668,1059,COURSE19,2022-03-09,Absent,Student59,Doe,Female,1998-04-12,Computer Science,3.62,Course 19,Biology,4,Instructor 19,False
+669,1326,COURSE28,2023-07-13,Absent,Student326,Doe,Male,2003-05-18,Biology,2.57,Course 28,Physics,1,Instructor 28,False
+670,1276,COURSE27,2024-09-23,Present,Student276,Doe,Male,1990-02-09,Biology,3.17,Course 27,Biology,2,Instructor 27,True
+671,1204,COURSE16,2020-05-05,Absent,Student204,Doe,Male,1993-10-09,Biology,3.0,Course 16,Biology,4,Instructor 16,False
+672,1003,COURSE17,2021-05-09,Present,Student3,Doe,Male,2001-08-11,Biology,3.04,Course 17,Physics,1,Instructor 17,True
+673,1371,COURSE40,2022-03-07,Absent,Student371,Doe,Female,1996-03-29,Mathematics,3.19,Course 40,Physics,2,Instructor 40,False
+674,1019,COURSE23,2023-12-13,Present,Student19,Doe,Male,2000-07-15,Biology,2.75,Course 23,Computer Science,1,Instructor 23,True
+675,1190,COURSE10,2023-10-22,Absent,Student190,Doe,Male,1995-01-18,Biology,2.81,Course 10,Biology,3,Instructor 10,False
+676,1388,COURSE16,2020-10-08,Absent,Student388,Doe,Male,1990-09-23,Computer Science,3.23,Course 16,Biology,4,Instructor 16,False
+677,1191,COURSE18,2020-06-18,Absent,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 18,Physics,3,Instructor 18,False
+678,1421,COURSE28,2022-06-06,Absent,Student421,Doe,Female,1991-02-03,Mathematics,3.49,Course 28,Physics,1,Instructor 28,False
+679,1284,COURSE18,2024-12-06,Present,Student284,Doe,Female,2002-10-08,Mathematics,2.08,Course 18,Physics,3,Instructor 18,True
+680,1261,COURSE24,2024-02-01,Present,Student261,Doe,Female,1990-07-04,Mathematics,2.46,Course 24,Physics,4,Instructor 24,True
+681,1296,COURSE12,2022-01-17,Absent,Student296,Doe,Female,2001-04-12,Physics,3.44,Course 12,Mathematics,1,Instructor 12,False
+682,1316,COURSE44,2024-02-20,Present,Student316,Doe,Male,1994-02-17,Mathematics,3.96,Course 44,Mathematics,3,Instructor 44,True
+683,1237,COURSE3,2021-03-31,Present,Student237,Doe,Male,2001-08-06,Mathematics,3.74,Course 3,Computer Science,2,Instructor 3,True
+684,1333,COURSE33,2023-06-08,Present,Student333,Doe,Male,2003-05-25,Computer Science,3.5,Course 33,Biology,4,Instructor 33,True
+685,1197,COURSE7,2020-08-15,Absent,Student197,Doe,Male,1995-06-13,Mathematics,2.34,Course 7,Mathematics,4,Instructor 7,False
+686,1388,COURSE34,2024-03-08,Absent,Student388,Doe,Male,1990-09-23,Computer Science,3.23,Course 34,Mathematics,3,Instructor 34,False
+687,1438,COURSE24,2023-07-14,Absent,Student438,Doe,Female,2001-01-26,Biology,3.36,Course 24,Physics,4,Instructor 24,False
+688,1401,COURSE31,2023-03-30,Present,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 31,Computer Science,1,Instructor 31,True
+689,1145,COURSE17,2024-09-18,Present,Student145,Doe,Female,2005-03-11,Computer Science,3.65,Course 17,Physics,1,Instructor 17,True
+690,1492,COURSE47,2021-09-21,Present,Student492,Doe,Male,1996-01-21,Biology,3.9,Course 47,Mathematics,2,Instructor 47,True
+691,1473,COURSE5,2024-03-29,Absent,Student473,Doe,Female,1997-08-23,Biology,3.4,Course 5,Mathematics,4,Instructor 5,False
+692,1073,COURSE47,2021-01-17,Present,Student73,Doe,Male,1990-10-12,Physics,3.77,Course 47,Mathematics,2,Instructor 47,True
+693,1126,COURSE9,2022-10-15,Present,Student126,Doe,Male,1992-09-30,Biology,3.12,Course 9,Biology,1,Instructor 9,True
+694,1420,COURSE3,2020-06-06,Absent,Student420,Doe,Female,1991-07-12,Mathematics,3.21,Course 3,Computer Science,2,Instructor 3,False
+695,1200,COURSE16,2023-06-07,Absent,Student200,Doe,Female,2002-08-19,Biology,2.77,Course 16,Biology,4,Instructor 16,False
+696,1103,COURSE9,2022-08-02,Absent,Student103,Doe,Male,1999-07-13,Physics,2.07,Course 9,Biology,1,Instructor 9,False
+697,1150,COURSE36,2023-08-28,Absent,Student150,Doe,Male,2003-09-05,Physics,2.1,Course 36,Computer Science,4,Instructor 36,False
+698,1497,COURSE16,2021-02-06,Present,Student497,Doe,Male,2003-05-24,Computer Science,2.55,Course 16,Biology,4,Instructor 16,True
+699,1265,COURSE37,2020-01-18,Absent,Student265,Doe,Male,1993-10-13,Physics,2.97,Course 37,Biology,4,Instructor 37,False
+700,1195,COURSE3,2022-02-09,Present,Student195,Doe,Female,2003-09-20,Physics,3.83,Course 3,Computer Science,2,Instructor 3,True
+701,1090,COURSE37,2020-07-19,Present,Student90,Doe,Male,1998-01-20,Mathematics,3.27,Course 37,Biology,4,Instructor 37,True
+702,1087,COURSE6,2024-02-02,Absent,Student87,Doe,Male,1990-12-23,Biology,2.89,Course 6,Computer Science,2,Instructor 6,False
+703,1241,COURSE35,2022-05-25,Absent,Student241,Doe,Male,1996-07-09,Physics,2.28,Course 35,Computer Science,4,Instructor 35,False
+704,1461,COURSE20,2023-09-26,Absent,Student461,Doe,Female,1991-10-12,Physics,3.67,Course 20,Computer Science,1,Instructor 20,False
+705,1370,COURSE17,2024-05-24,Absent,Student370,Doe,Female,1999-04-16,Mathematics,2.07,Course 17,Physics,1,Instructor 17,False
+706,1042,COURSE25,2024-08-06,Present,Student42,Doe,Male,1998-10-20,Mathematics,3.6,Course 25,Biology,1,Instructor 25,True
+707,1426,COURSE19,2020-12-10,Present,Student426,Doe,Female,2000-11-19,Biology,3.67,Course 19,Biology,4,Instructor 19,True
+708,1138,COURSE32,2022-01-26,Present,Student138,Doe,Female,1997-07-24,Mathematics,2.86,Course 32,Computer Science,4,Instructor 32,True
+709,1227,COURSE28,2020-09-09,Present,Student227,Doe,Male,1999-11-05,Biology,3.93,Course 28,Physics,1,Instructor 28,True
+710,1416,COURSE23,2020-02-14,Present,Student416,Doe,Male,1999-02-26,Physics,2.77,Course 23,Computer Science,1,Instructor 23,True
+711,1057,COURSE47,2024-12-24,Absent,Student57,Doe,Male,1992-09-26,Computer Science,2.69,Course 47,Mathematics,2,Instructor 47,False
+712,1400,COURSE7,2021-07-24,Absent,Student400,Doe,Male,1998-01-13,Mathematics,3.15,Course 7,Mathematics,4,Instructor 7,False
+713,1322,COURSE22,2021-09-01,Absent,Student322,Doe,Female,2001-04-02,Physics,2.44,Course 22,Biology,2,Instructor 22,False
+714,1428,COURSE6,2024-10-28,Absent,Student428,Doe,Female,1991-08-25,Physics,3.84,Course 6,Computer Science,2,Instructor 6,False
+715,1117,COURSE5,2024-06-02,Present,Student117,Doe,Female,2001-12-02,Physics,2.06,Course 5,Mathematics,4,Instructor 5,True
+716,1297,COURSE1,2024-03-14,Absent,Student297,Doe,Female,1990-11-20,Biology,3.5,Course 1,Mathematics,2,Instructor 1,False
+717,1089,COURSE20,2024-10-05,Absent,Student89,Doe,Male,1991-01-03,Mathematics,3.13,Course 20,Computer Science,1,Instructor 20,False
+718,1394,COURSE2,2024-10-22,Absent,Student394,Doe,Male,1996-03-30,Computer Science,3.78,Course 2,Physics,4,Instructor 2,False
+719,1202,COURSE28,2023-04-30,Present,Student202,Doe,Female,2003-05-06,Physics,2.97,Course 28,Physics,1,Instructor 28,True
+720,1187,COURSE46,2021-01-20,Present,Student187,Doe,Male,2001-08-19,Physics,3.65,Course 46,Physics,3,Instructor 46,True
+721,1217,COURSE42,2021-03-19,Present,Student217,Doe,Female,1991-05-12,Mathematics,3.28,Course 42,Biology,3,Instructor 42,True
+722,1196,COURSE2,2020-05-03,Present,Student196,Doe,Female,2001-10-02,Physics,2.32,Course 2,Physics,4,Instructor 2,True
+723,1227,COURSE16,2021-11-29,Absent,Student227,Doe,Male,1999-11-05,Biology,3.93,Course 16,Biology,4,Instructor 16,False
+724,1479,COURSE46,2021-10-15,Absent,Student479,Doe,Male,1997-11-30,Physics,2.26,Course 46,Physics,3,Instructor 46,False
+725,1389,COURSE6,2024-09-10,Absent,Student389,Doe,Female,2005-09-11,Biology,3.19,Course 6,Computer Science,2,Instructor 6,False
+726,1136,COURSE2,2023-09-01,Present,Student136,Doe,Male,1997-03-19,Computer Science,2.69,Course 2,Physics,4,Instructor 2,True
+727,1036,COURSE29,2020-10-03,Absent,Student36,Doe,Male,2000-12-03,Physics,2.69,Course 29,Mathematics,1,Instructor 29,False
+728,1259,COURSE38,2021-02-08,Present,Student259,Doe,Female,1996-02-19,Computer Science,2.1,Course 38,Physics,2,Instructor 38,True
+729,1197,COURSE33,2022-07-18,Present,Student197,Doe,Male,1995-06-13,Mathematics,2.34,Course 33,Biology,4,Instructor 33,True
+730,1035,COURSE21,2024-12-23,Present,Student35,Doe,Male,2002-11-08,Computer Science,3.76,Course 21,Computer Science,4,Instructor 21,True
+731,1050,COURSE11,2021-05-26,Present,Student50,Doe,Female,1998-05-09,Mathematics,2.87,Course 11,Biology,2,Instructor 11,True
+732,1042,COURSE17,2020-10-19,Absent,Student42,Doe,Male,1998-10-20,Mathematics,3.6,Course 17,Physics,1,Instructor 17,False
+733,1271,COURSE2,2023-04-07,Present,Student271,Doe,Female,1995-01-02,Physics,2.76,Course 2,Physics,4,Instructor 2,True
+734,1002,COURSE24,2020-01-17,Present,Student2,Doe,Female,2001-05-13,Computer Science,2.07,Course 24,Physics,4,Instructor 24,True
+735,1356,COURSE39,2022-10-15,Absent,Student356,Doe,Male,2003-05-24,Computer Science,3.39,Course 39,Physics,2,Instructor 39,False
+736,1132,COURSE31,2021-12-30,Absent,Student132,Doe,Female,2004-06-27,Biology,3.22,Course 31,Computer Science,1,Instructor 31,False
+737,1147,COURSE3,2022-06-14,Absent,Student147,Doe,Male,1999-04-03,Biology,2.46,Course 3,Computer Science,2,Instructor 3,False
+738,1414,COURSE40,2021-06-11,Present,Student414,Doe,Female,1992-07-17,Biology,2.09,Course 40,Physics,2,Instructor 40,True
+739,1101,COURSE26,2024-09-18,Present,Student101,Doe,Male,1999-06-25,Biology,3.01,Course 26,Biology,2,Instructor 26,True
+740,1297,COURSE7,2024-09-24,Present,Student297,Doe,Female,1990-11-20,Biology,3.5,Course 7,Mathematics,4,Instructor 7,True
+741,1408,COURSE35,2024-12-24,Present,Student408,Doe,Female,1990-02-22,Biology,2.65,Course 35,Computer Science,4,Instructor 35,True
+742,1293,COURSE32,2022-07-25,Absent,Student293,Doe,Female,1993-07-16,Mathematics,3.99,Course 32,Computer Science,4,Instructor 32,False
+743,1448,COURSE24,2021-12-15,Absent,Student448,Doe,Female,1992-11-26,Computer Science,2.65,Course 24,Physics,4,Instructor 24,False
+744,1485,COURSE19,2021-07-05,Absent,Student485,Doe,Male,1997-02-01,Physics,3.83,Course 19,Biology,4,Instructor 19,False
+745,1395,COURSE9,2022-06-23,Absent,Student395,Doe,Male,1993-08-30,Computer Science,3.75,Course 9,Biology,1,Instructor 9,False
+746,1215,COURSE3,2022-12-25,Present,Student215,Doe,Female,1996-01-10,Computer Science,3.57,Course 3,Computer Science,2,Instructor 3,True
+747,1492,COURSE2,2022-07-23,Present,Student492,Doe,Male,1996-01-21,Biology,3.9,Course 2,Physics,4,Instructor 2,True
+748,1456,COURSE31,2021-07-26,Absent,Student456,Doe,Female,1997-08-26,Biology,3.13,Course 31,Computer Science,1,Instructor 31,False
+749,1238,COURSE12,2023-01-06,Absent,Student238,Doe,Male,1999-10-26,Computer Science,2.12,Course 12,Mathematics,1,Instructor 12,False
+750,1031,COURSE26,2023-01-25,Present,Student31,Doe,Female,2003-06-29,Physics,2.96,Course 26,Biology,2,Instructor 26,True
+751,1386,COURSE46,2023-11-09,Present,Student386,Doe,Male,2000-02-11,Physics,2.33,Course 46,Physics,3,Instructor 46,True
+752,1107,COURSE48,2024-11-05,Present,Student107,Doe,Female,1997-05-05,Biology,2.76,Course 48,Computer Science,3,Instructor 48,True
+753,1400,COURSE46,2024-04-06,Present,Student400,Doe,Male,1998-01-13,Mathematics,3.15,Course 46,Physics,3,Instructor 46,True
+754,1211,COURSE21,2023-02-28,Absent,Student211,Doe,Female,1995-03-04,Physics,2.77,Course 21,Computer Science,4,Instructor 21,False
+755,1086,COURSE29,2021-07-10,Absent,Student86,Doe,Male,1993-11-21,Mathematics,3.8,Course 29,Mathematics,1,Instructor 29,False
+756,1248,COURSE30,2022-07-20,Present,Student248,Doe,Male,2002-07-10,Mathematics,3.47,Course 30,Computer Science,3,Instructor 30,True
+757,1224,COURSE30,2023-04-15,Absent,Student224,Doe,Male,1999-06-28,Computer Science,3.85,Course 30,Computer Science,3,Instructor 30,False
+758,1314,COURSE34,2022-12-13,Absent,Student314,Doe,Female,1996-01-28,Mathematics,2.73,Course 34,Mathematics,3,Instructor 34,False
+759,1273,COURSE22,2023-09-19,Present,Student273,Doe,Male,1992-09-27,Computer Science,3.25,Course 22,Biology,2,Instructor 22,True
+760,1086,COURSE22,2022-11-04,Absent,Student86,Doe,Male,1993-11-21,Mathematics,3.8,Course 22,Biology,2,Instructor 22,False
+761,1109,COURSE45,2024-03-23,Absent,Student109,Doe,Female,2000-11-15,Biology,2.65,Course 45,Computer Science,4,Instructor 45,False
+762,1047,COURSE45,2024-08-09,Present,Student47,Doe,Female,2000-08-05,Mathematics,3.34,Course 45,Computer Science,4,Instructor 45,True
+763,1265,COURSE32,2024-11-26,Absent,Student265,Doe,Male,1993-10-13,Physics,2.97,Course 32,Computer Science,4,Instructor 32,False
+764,1070,COURSE46,2022-11-03,Absent,Student70,Doe,Female,1991-12-11,Physics,3.36,Course 46,Physics,3,Instructor 46,False
+765,1139,COURSE42,2021-06-28,Present,Student139,Doe,Male,1999-10-05,Mathematics,3.96,Course 42,Biology,3,Instructor 42,True
+766,1360,COURSE22,2022-09-20,Absent,Student360,Doe,Male,1998-11-11,Physics,3.23,Course 22,Biology,2,Instructor 22,False
+767,1007,COURSE41,2023-12-01,Present,Student7,Doe,Male,1999-08-20,Biology,3.17,Course 41,Biology,2,Instructor 41,True
+768,1260,COURSE16,2020-05-02,Absent,Student260,Doe,Female,1994-01-16,Biology,2.02,Course 16,Biology,4,Instructor 16,False
+769,1394,COURSE39,2021-06-11,Absent,Student394,Doe,Male,1996-03-30,Computer Science,3.78,Course 39,Physics,2,Instructor 39,False
+770,1160,COURSE18,2024-11-30,Absent,Student160,Doe,Female,2000-08-04,Biology,2.92,Course 18,Physics,3,Instructor 18,False
+771,1106,COURSE36,2020-06-27,Present,Student106,Doe,Female,1997-05-19,Computer Science,2.97,Course 36,Computer Science,4,Instructor 36,True
+772,1416,COURSE19,2022-10-26,Absent,Student416,Doe,Male,1999-02-26,Physics,2.77,Course 19,Biology,4,Instructor 19,False
+773,1103,COURSE4,2024-01-12,Present,Student103,Doe,Male,1999-07-13,Physics,2.07,Course 4,Biology,4,Instructor 4,True
+774,1301,COURSE8,2020-06-24,Absent,Student301,Doe,Male,1996-02-09,Computer Science,2.21,Course 8,Physics,3,Instructor 8,False
+775,1275,COURSE8,2022-03-25,Present,Student275,Doe,Male,1996-05-09,Physics,2.81,Course 8,Physics,3,Instructor 8,True
+776,1080,COURSE4,2024-01-13,Absent,Student80,Doe,Male,1994-07-28,Mathematics,2.19,Course 4,Biology,4,Instructor 4,False
+777,1157,COURSE3,2021-07-14,Absent,Student157,Doe,Male,1997-07-22,Computer Science,3.58,Course 3,Computer Science,2,Instructor 3,False
+778,1012,COURSE9,2020-04-02,Absent,Student12,Doe,Female,2003-03-17,Computer Science,2.59,Course 9,Biology,1,Instructor 9,False
+779,1388,COURSE17,2021-12-03,Absent,Student388,Doe,Male,1990-09-23,Computer Science,3.23,Course 17,Physics,1,Instructor 17,False
+780,1472,COURSE22,2022-09-08,Absent,Student472,Doe,Male,2000-07-13,Biology,3.1,Course 22,Biology,2,Instructor 22,False
+781,1176,COURSE41,2024-11-09,Absent,Student176,Doe,Male,2000-07-14,Mathematics,2.99,Course 41,Biology,2,Instructor 41,False
+782,1139,COURSE47,2024-06-05,Present,Student139,Doe,Male,1999-10-05,Mathematics,3.96,Course 47,Mathematics,2,Instructor 47,True
+783,1066,COURSE41,2021-08-07,Absent,Student66,Doe,Female,1991-10-10,Physics,2.15,Course 41,Biology,2,Instructor 41,False
+784,1070,COURSE27,2021-04-28,Absent,Student70,Doe,Female,1991-12-11,Physics,3.36,Course 27,Biology,2,Instructor 27,False
+785,1126,COURSE27,2020-01-27,Present,Student126,Doe,Male,1992-09-30,Biology,3.12,Course 27,Biology,2,Instructor 27,True
+786,1393,COURSE7,2024-02-10,Present,Student393,Doe,Female,1997-11-25,Mathematics,3.9,Course 7,Mathematics,4,Instructor 7,True
+787,1406,COURSE6,2021-09-29,Present,Student406,Doe,Female,1991-05-03,Physics,2.45,Course 6,Computer Science,2,Instructor 6,True
+788,1401,COURSE46,2022-07-08,Present,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 46,Physics,3,Instructor 46,True
+789,1416,COURSE19,2021-12-25,Present,Student416,Doe,Male,1999-02-26,Physics,2.77,Course 19,Biology,4,Instructor 19,True
+790,1221,COURSE49,2024-04-29,Present,Student221,Doe,Female,1994-04-20,Mathematics,3.51,Course 49,Computer Science,4,Instructor 49,True
+791,1134,COURSE8,2022-06-29,Absent,Student134,Doe,Female,2001-08-17,Physics,3.23,Course 8,Physics,3,Instructor 8,False
+792,1278,COURSE20,2021-07-08,Absent,Student278,Doe,Female,1992-05-06,Physics,3.36,Course 20,Computer Science,1,Instructor 20,False
+793,1003,COURSE2,2024-05-15,Present,Student3,Doe,Male,2001-08-11,Biology,3.04,Course 2,Physics,4,Instructor 2,True
+794,1428,COURSE48,2023-09-20,Absent,Student428,Doe,Female,1991-08-25,Physics,3.84,Course 48,Computer Science,3,Instructor 48,False
+795,1272,COURSE27,2020-04-24,Present,Student272,Doe,Female,2002-08-10,Biology,2.64,Course 27,Biology,2,Instructor 27,True
+796,1355,COURSE37,2023-07-25,Present,Student355,Doe,Female,2002-03-27,Computer Science,2.88,Course 37,Biology,4,Instructor 37,True
+797,1086,COURSE11,2021-08-14,Present,Student86,Doe,Male,1993-11-21,Mathematics,3.8,Course 11,Biology,2,Instructor 11,True
+798,1230,COURSE29,2022-06-29,Present,Student230,Doe,Female,1991-07-25,Mathematics,2.55,Course 29,Mathematics,1,Instructor 29,True
+799,1378,COURSE46,2022-11-11,Absent,Student378,Doe,Female,1998-05-16,Physics,3.88,Course 46,Physics,3,Instructor 46,False
+800,1056,COURSE9,2024-03-16,Absent,Student56,Doe,Male,1996-05-30,Computer Science,3.77,Course 9,Biology,1,Instructor 9,False
+801,1323,COURSE31,2021-10-24,Absent,Student323,Doe,Male,2005-10-13,Physics,3.81,Course 31,Computer Science,1,Instructor 31,False
+802,1025,COURSE36,2023-02-04,Absent,Student25,Doe,Female,1990-01-26,Biology,3.33,Course 36,Computer Science,4,Instructor 36,False
+803,1414,COURSE1,2023-05-24,Absent,Student414,Doe,Female,1992-07-17,Biology,2.09,Course 1,Mathematics,2,Instructor 1,False
+804,1431,COURSE49,2021-11-17,Absent,Student431,Doe,Female,2005-06-21,Physics,3.16,Course 49,Computer Science,4,Instructor 49,False
+805,1246,COURSE1,2020-10-16,Absent,Student246,Doe,Male,2005-11-29,Mathematics,2.66,Course 1,Mathematics,2,Instructor 1,False
+806,1260,COURSE44,2023-09-04,Absent,Student260,Doe,Female,1994-01-16,Biology,2.02,Course 44,Mathematics,3,Instructor 44,False
+807,1208,COURSE15,2024-03-05,Present,Student208,Doe,Female,1992-10-08,Mathematics,3.97,Course 15,Biology,1,Instructor 15,True
+808,1497,COURSE14,2020-04-11,Present,Student497,Doe,Male,2003-05-24,Computer Science,2.55,Course 14,Computer Science,4,Instructor 14,True
+809,1275,COURSE36,2024-06-20,Present,Student275,Doe,Male,1996-05-09,Physics,2.81,Course 36,Computer Science,4,Instructor 36,True
+810,1416,COURSE33,2021-09-23,Present,Student416,Doe,Male,1999-02-26,Physics,2.77,Course 33,Biology,4,Instructor 33,True
+811,1248,COURSE44,2021-08-12,Absent,Student248,Doe,Male,2002-07-10,Mathematics,3.47,Course 44,Mathematics,3,Instructor 44,False
+812,1433,COURSE11,2023-09-23,Absent,Student433,Doe,Male,2002-12-13,Computer Science,3.65,Course 11,Biology,2,Instructor 11,False
+813,1270,COURSE42,2024-01-20,Absent,Student270,Doe,Male,2001-02-23,Mathematics,2.45,Course 42,Biology,3,Instructor 42,False
+814,1327,COURSE40,2023-06-23,Present,Student327,Doe,Male,1998-12-27,Physics,3.67,Course 40,Physics,2,Instructor 40,True
+815,1044,COURSE10,2023-02-10,Absent,Student44,Doe,Male,2003-04-10,Computer Science,2.43,Course 10,Biology,3,Instructor 10,False
+816,1151,COURSE12,2022-01-31,Present,Student151,Doe,Male,1995-06-08,Computer Science,2.09,Course 12,Mathematics,1,Instructor 12,True
+817,1431,COURSE8,2023-07-24,Absent,Student431,Doe,Female,2005-06-21,Physics,3.16,Course 8,Physics,3,Instructor 8,False
+818,1436,COURSE12,2020-07-15,Present,Student436,Doe,Female,1991-08-29,Biology,2.17,Course 12,Mathematics,1,Instructor 12,True
+819,1309,COURSE2,2020-05-03,Present,Student309,Doe,Female,1999-02-15,Biology,3.56,Course 2,Physics,4,Instructor 2,True
+820,1282,COURSE20,2023-01-16,Present,Student282,Doe,Male,1998-06-17,Physics,2.8,Course 20,Computer Science,1,Instructor 20,True
+821,1426,COURSE28,2021-05-10,Absent,Student426,Doe,Female,2000-11-19,Biology,3.67,Course 28,Physics,1,Instructor 28,False
+822,1329,COURSE36,2024-08-30,Present,Student329,Doe,Male,1992-01-11,Computer Science,2.1,Course 36,Computer Science,4,Instructor 36,True
+823,1483,COURSE1,2022-12-06,Present,Student483,Doe,Female,1999-11-10,Mathematics,2.22,Course 1,Mathematics,2,Instructor 1,True
+824,1191,COURSE2,2022-07-18,Present,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 2,Physics,4,Instructor 2,True
+825,1462,COURSE48,2023-02-27,Absent,Student462,Doe,Male,1990-02-12,Biology,3.22,Course 48,Computer Science,3,Instructor 48,False
+826,1356,COURSE49,2024-01-03,Absent,Student356,Doe,Male,2003-05-24,Computer Science,3.39,Course 49,Computer Science,4,Instructor 49,False
+827,1125,COURSE5,2023-12-27,Present,Student125,Doe,Male,2003-07-05,Biology,3.4,Course 5,Mathematics,4,Instructor 5,True
+828,1285,COURSE34,2022-02-01,Absent,Student285,Doe,Male,2000-11-14,Physics,2.7,Course 34,Mathematics,3,Instructor 34,False
+829,1195,COURSE4,2022-12-21,Absent,Student195,Doe,Female,2003-09-20,Physics,3.83,Course 4,Biology,4,Instructor 4,False
+830,1075,COURSE22,2023-03-23,Present,Student75,Doe,Female,1994-11-16,Computer Science,2.73,Course 22,Biology,2,Instructor 22,True
+831,1396,COURSE48,2024-09-06,Present,Student396,Doe,Female,1996-08-17,Mathematics,2.65,Course 48,Computer Science,3,Instructor 48,True
+832,1050,COURSE38,2023-07-12,Present,Student50,Doe,Female,1998-05-09,Mathematics,2.87,Course 38,Physics,2,Instructor 38,True
+833,1267,COURSE10,2023-08-22,Present,Student267,Doe,Male,2001-03-23,Physics,2.92,Course 10,Biology,3,Instructor 10,True
+834,1220,COURSE7,2020-06-25,Present,Student220,Doe,Male,2002-05-29,Computer Science,3.34,Course 7,Mathematics,4,Instructor 7,True
+835,1042,COURSE42,2024-09-04,Present,Student42,Doe,Male,1998-10-20,Mathematics,3.6,Course 42,Biology,3,Instructor 42,True
+836,1373,COURSE3,2023-05-02,Present,Student373,Doe,Male,2003-01-01,Mathematics,2.68,Course 3,Computer Science,2,Instructor 3,True
+837,1188,COURSE8,2023-08-03,Present,Student188,Doe,Female,1997-12-03,Computer Science,2.62,Course 8,Physics,3,Instructor 8,True
+838,1010,COURSE4,2024-12-20,Absent,Student10,Doe,Male,2000-10-30,Physics,2.09,Course 4,Biology,4,Instructor 4,False
+839,1376,COURSE6,2021-03-02,Absent,Student376,Doe,Male,1993-02-26,Biology,3.28,Course 6,Computer Science,2,Instructor 6,False
+840,1477,COURSE44,2020-06-04,Absent,Student477,Doe,Male,2005-11-29,Mathematics,3.84,Course 44,Mathematics,3,Instructor 44,False
+841,1237,COURSE34,2021-12-08,Absent,Student237,Doe,Male,2001-08-06,Mathematics,3.74,Course 34,Mathematics,3,Instructor 34,False
+842,1178,COURSE27,2020-09-04,Present,Student178,Doe,Female,1993-09-09,Physics,3.11,Course 27,Biology,2,Instructor 27,True
+843,1160,COURSE24,2020-12-08,Absent,Student160,Doe,Female,2000-08-04,Biology,2.92,Course 24,Physics,4,Instructor 24,False
+844,1231,COURSE6,2020-11-26,Absent,Student231,Doe,Female,1999-02-11,Biology,2.01,Course 6,Computer Science,2,Instructor 6,False
+845,1267,COURSE11,2020-09-22,Absent,Student267,Doe,Male,2001-03-23,Physics,2.92,Course 11,Biology,2,Instructor 11,False
+846,1325,COURSE39,2020-04-21,Absent,Student325,Doe,Male,2004-05-15,Biology,2.55,Course 39,Physics,2,Instructor 39,False
+847,1332,COURSE50,2021-04-13,Absent,Student332,Doe,Male,2004-11-06,Computer Science,3.75,Course 50,Computer Science,4,Instructor 50,False
+848,1005,COURSE18,2022-03-29,Present,Student5,Doe,Female,2000-05-30,Physics,3.68,Course 18,Physics,3,Instructor 18,True
+849,1441,COURSE2,2023-08-08,Absent,Student441,Doe,Female,2001-01-30,Physics,2.18,Course 2,Physics,4,Instructor 2,False
+850,1073,COURSE47,2021-03-01,Present,Student73,Doe,Male,1990-10-12,Physics,3.77,Course 47,Mathematics,2,Instructor 47,True
+851,1181,COURSE7,2023-09-10,Present,Student181,Doe,Female,1997-12-22,Biology,3.21,Course 7,Mathematics,4,Instructor 7,True
+852,1470,COURSE29,2021-02-04,Absent,Student470,Doe,Male,2000-07-29,Computer Science,2.46,Course 29,Mathematics,1,Instructor 29,False
+853,1261,COURSE7,2022-12-26,Present,Student261,Doe,Female,1990-07-04,Mathematics,2.46,Course 7,Mathematics,4,Instructor 7,True
+854,1369,COURSE48,2022-04-13,Present,Student369,Doe,Female,1990-05-09,Biology,3.49,Course 48,Computer Science,3,Instructor 48,True
+855,1095,COURSE25,2024-10-22,Present,Student95,Doe,Female,1998-05-15,Computer Science,2.78,Course 25,Biology,1,Instructor 25,True
+856,1038,COURSE6,2022-06-29,Absent,Student38,Doe,Female,2003-06-27,Physics,2.42,Course 6,Computer Science,2,Instructor 6,False
+857,1128,COURSE41,2022-09-25,Absent,Student128,Doe,Male,1992-03-24,Computer Science,3.35,Course 41,Biology,2,Instructor 41,False
+858,1030,COURSE45,2023-08-11,Absent,Student30,Doe,Male,2005-12-21,Physics,2.47,Course 45,Computer Science,4,Instructor 45,False
+859,1124,COURSE5,2020-09-28,Absent,Student124,Doe,Female,1994-11-03,Computer Science,2.93,Course 5,Mathematics,4,Instructor 5,False
+860,1234,COURSE36,2021-08-30,Absent,Student234,Doe,Male,1997-10-31,Computer Science,3.77,Course 36,Computer Science,4,Instructor 36,False
+861,1201,COURSE17,2023-09-29,Present,Student201,Doe,Female,1992-03-17,Computer Science,3.36,Course 17,Physics,1,Instructor 17,True
+862,1323,COURSE6,2020-10-29,Absent,Student323,Doe,Male,2005-10-13,Physics,3.81,Course 6,Computer Science,2,Instructor 6,False
+863,1022,COURSE14,2021-10-02,Present,Student22,Doe,Female,2005-05-11,Physics,3.42,Course 14,Computer Science,4,Instructor 14,True
+864,1094,COURSE8,2023-04-25,Absent,Student94,Doe,Male,1997-03-08,Physics,3.63,Course 8,Physics,3,Instructor 8,False
+865,1375,COURSE31,2023-11-21,Present,Student375,Doe,Male,1998-02-20,Biology,3.49,Course 31,Computer Science,1,Instructor 31,True
+866,1331,COURSE45,2023-12-25,Absent,Student331,Doe,Male,2000-01-06,Physics,2.95,Course 45,Computer Science,4,Instructor 45,False
+867,1490,COURSE34,2022-10-25,Absent,Student490,Doe,Female,2002-08-14,Physics,3.87,Course 34,Mathematics,3,Instructor 34,False
+868,1412,COURSE3,2024-07-08,Present,Student412,Doe,Male,1990-08-10,Computer Science,2.82,Course 3,Computer Science,2,Instructor 3,True
+869,1377,COURSE12,2024-03-19,Absent,Student377,Doe,Female,1998-12-07,Mathematics,3.31,Course 12,Mathematics,1,Instructor 12,False
+870,1129,COURSE14,2020-08-19,Absent,Student129,Doe,Female,1997-03-11,Physics,3.79,Course 14,Computer Science,4,Instructor 14,False
+871,1492,COURSE6,2023-02-23,Present,Student492,Doe,Male,1996-01-21,Biology,3.9,Course 6,Computer Science,2,Instructor 6,True
+872,1100,COURSE46,2021-01-30,Present,Student100,Doe,Male,2005-09-12,Mathematics,2.68,Course 46,Physics,3,Instructor 46,True
+873,1020,COURSE33,2021-05-03,Present,Student20,Doe,Female,1998-01-09,Computer Science,3.75,Course 33,Biology,4,Instructor 33,True
+874,1473,COURSE37,2021-06-13,Present,Student473,Doe,Female,1997-08-23,Biology,3.4,Course 37,Biology,4,Instructor 37,True
+875,1148,COURSE38,2024-02-08,Absent,Student148,Doe,Female,1993-10-26,Biology,3.41,Course 38,Physics,2,Instructor 38,False
+876,1169,COURSE18,2021-05-20,Present,Student169,Doe,Male,1993-09-13,Physics,2.48,Course 18,Physics,3,Instructor 18,True
+877,1274,COURSE17,2021-10-17,Absent,Student274,Doe,Female,1996-11-15,Biology,2.79,Course 17,Physics,1,Instructor 17,False
+878,1122,COURSE8,2023-07-07,Absent,Student122,Doe,Female,2005-12-20,Physics,2.23,Course 8,Physics,3,Instructor 8,False
+879,1373,COURSE40,2024-08-31,Present,Student373,Doe,Male,2003-01-01,Mathematics,2.68,Course 40,Physics,2,Instructor 40,True
+880,1021,COURSE37,2022-12-16,Absent,Student21,Doe,Male,2003-01-17,Biology,3.03,Course 37,Biology,4,Instructor 37,False
+881,1499,COURSE13,2022-01-07,Absent,Student499,Doe,Female,2003-11-11,Mathematics,3.47,Course 13,Physics,2,Instructor 13,False
+882,1320,COURSE32,2022-09-03,Absent,Student320,Doe,Female,2004-01-07,Mathematics,3.87,Course 32,Computer Science,4,Instructor 32,False
+883,1458,COURSE15,2022-03-23,Absent,Student458,Doe,Female,1992-03-11,Physics,2.33,Course 15,Biology,1,Instructor 15,False
+884,1008,COURSE37,2022-01-09,Present,Student8,Doe,Female,1997-06-18,Mathematics,2.27,Course 37,Biology,4,Instructor 37,True
+885,1217,COURSE12,2022-09-14,Present,Student217,Doe,Female,1991-05-12,Mathematics,3.28,Course 12,Mathematics,1,Instructor 12,True
+886,1308,COURSE47,2024-09-22,Absent,Student308,Doe,Male,1995-12-01,Biology,3.17,Course 47,Mathematics,2,Instructor 47,False
+887,1064,COURSE29,2021-12-30,Absent,Student64,Doe,Male,1999-02-27,Biology,3.96,Course 29,Mathematics,1,Instructor 29,False
+888,1033,COURSE33,2021-03-04,Present,Student33,Doe,Male,2000-12-11,Physics,2.66,Course 33,Biology,4,Instructor 33,True
+889,1086,COURSE43,2024-02-15,Present,Student86,Doe,Male,1993-11-21,Mathematics,3.8,Course 43,Physics,3,Instructor 43,True
+890,1235,COURSE26,2023-08-30,Present,Student235,Doe,Female,1999-05-12,Computer Science,2.94,Course 26,Biology,2,Instructor 26,True
+891,1257,COURSE17,2023-07-19,Absent,Student257,Doe,Female,1997-06-16,Biology,3.41,Course 17,Physics,1,Instructor 17,False
+892,1174,COURSE23,2022-05-07,Absent,Student174,Doe,Male,2003-07-26,Biology,2.06,Course 23,Computer Science,1,Instructor 23,False
+893,1026,COURSE6,2020-12-07,Present,Student26,Doe,Male,1992-01-12,Computer Science,2.42,Course 6,Computer Science,2,Instructor 6,True
+894,1178,COURSE43,2020-08-20,Present,Student178,Doe,Female,1993-09-09,Physics,3.11,Course 43,Physics,3,Instructor 43,True
+895,1389,COURSE50,2023-10-07,Present,Student389,Doe,Female,2005-09-11,Biology,3.19,Course 50,Computer Science,4,Instructor 50,True
+896,1153,COURSE33,2022-02-15,Absent,Student153,Doe,Female,1993-11-17,Mathematics,3.92,Course 33,Biology,4,Instructor 33,False
+897,1405,COURSE4,2022-03-06,Absent,Student405,Doe,Female,1993-03-24,Computer Science,2.68,Course 4,Biology,4,Instructor 4,False
+898,1420,COURSE42,2022-06-06,Absent,Student420,Doe,Female,1991-07-12,Mathematics,3.21,Course 42,Biology,3,Instructor 42,False
+899,1478,COURSE46,2023-02-02,Present,Student478,Doe,Female,1992-03-03,Biology,3.68,Course 46,Physics,3,Instructor 46,True
+900,1200,COURSE44,2023-02-18,Absent,Student200,Doe,Female,2002-08-19,Biology,2.77,Course 44,Mathematics,3,Instructor 44,False
+901,1319,COURSE17,2023-11-20,Absent,Student319,Doe,Male,1998-11-14,Computer Science,3.46,Course 17,Physics,1,Instructor 17,False
+902,1258,COURSE22,2020-12-27,Present,Student258,Doe,Female,1998-08-19,Mathematics,3.85,Course 22,Biology,2,Instructor 22,True
+903,1092,COURSE6,2021-01-11,Present,Student92,Doe,Male,1990-04-22,Biology,3.3,Course 6,Computer Science,2,Instructor 6,True
+904,1303,COURSE34,2021-01-26,Absent,Student303,Doe,Female,1992-12-30,Biology,3.21,Course 34,Mathematics,3,Instructor 34,False
+905,1453,COURSE34,2020-11-27,Absent,Student453,Doe,Female,1998-06-29,Physics,3.01,Course 34,Mathematics,3,Instructor 34,False
+906,1116,COURSE45,2022-05-06,Present,Student116,Doe,Female,1990-11-23,Physics,3.82,Course 45,Computer Science,4,Instructor 45,True
+907,1428,COURSE38,2022-04-12,Present,Student428,Doe,Female,1991-08-25,Physics,3.84,Course 38,Physics,2,Instructor 38,True
+908,1110,COURSE2,2020-03-02,Present,Student110,Doe,Female,1994-06-24,Computer Science,2.85,Course 2,Physics,4,Instructor 2,True
+909,1468,COURSE41,2021-02-08,Present,Student468,Doe,Male,1996-01-04,Physics,2.43,Course 41,Biology,2,Instructor 41,True
+910,1453,COURSE43,2021-07-11,Absent,Student453,Doe,Female,1998-06-29,Physics,3.01,Course 43,Physics,3,Instructor 43,False
+911,1311,COURSE17,2023-09-18,Absent,Student311,Doe,Female,2004-08-18,Mathematics,3.88,Course 17,Physics,1,Instructor 17,False
+912,1470,COURSE43,2021-04-02,Absent,Student470,Doe,Male,2000-07-29,Computer Science,2.46,Course 43,Physics,3,Instructor 43,False
+913,1445,COURSE40,2020-10-27,Present,Student445,Doe,Male,1996-01-07,Mathematics,3.68,Course 40,Physics,2,Instructor 40,True
+914,1015,COURSE50,2024-12-10,Absent,Student15,Doe,Male,2000-05-28,Computer Science,2.34,Course 50,Computer Science,4,Instructor 50,False
+915,1057,COURSE3,2020-10-30,Absent,Student57,Doe,Male,1992-09-26,Computer Science,2.69,Course 3,Computer Science,2,Instructor 3,False
+916,1206,COURSE6,2020-07-03,Present,Student206,Doe,Female,2005-04-17,Mathematics,2.38,Course 6,Computer Science,2,Instructor 6,True
+917,1181,COURSE45,2020-09-08,Present,Student181,Doe,Female,1997-12-22,Biology,3.21,Course 45,Computer Science,4,Instructor 45,True
+918,1339,COURSE39,2021-01-21,Present,Student339,Doe,Male,2001-05-17,Biology,3.01,Course 39,Physics,2,Instructor 39,True
+919,1303,COURSE11,2020-03-18,Present,Student303,Doe,Female,1992-12-30,Biology,3.21,Course 11,Biology,2,Instructor 11,True
+920,1314,COURSE48,2023-02-18,Absent,Student314,Doe,Female,1996-01-28,Mathematics,2.73,Course 48,Computer Science,3,Instructor 48,False
+921,1151,COURSE20,2020-04-27,Absent,Student151,Doe,Male,1995-06-08,Computer Science,2.09,Course 20,Computer Science,1,Instructor 20,False
+922,1212,COURSE38,2024-06-05,Present,Student212,Doe,Male,1997-11-16,Computer Science,3.03,Course 38,Physics,2,Instructor 38,True
+923,1219,COURSE9,2022-09-16,Present,Student219,Doe,Female,2004-12-05,Biology,3.21,Course 9,Biology,1,Instructor 9,True
+924,1127,COURSE7,2020-08-13,Absent,Student127,Doe,Female,1992-06-14,Biology,3.1,Course 7,Mathematics,4,Instructor 7,False
+925,1401,COURSE28,2022-09-23,Absent,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 28,Physics,1,Instructor 28,False
+926,1448,COURSE28,2020-03-04,Present,Student448,Doe,Female,1992-11-26,Computer Science,2.65,Course 28,Physics,1,Instructor 28,True
+927,1156,COURSE50,2021-07-02,Absent,Student156,Doe,Female,2001-12-19,Physics,2.61,Course 50,Computer Science,4,Instructor 50,False
+928,1389,COURSE25,2023-05-12,Present,Student389,Doe,Female,2005-09-11,Biology,3.19,Course 25,Biology,1,Instructor 25,True
+929,1189,COURSE47,2021-05-30,Present,Student189,Doe,Female,2005-12-15,Mathematics,3.14,Course 47,Mathematics,2,Instructor 47,True
+930,1387,COURSE3,2020-08-29,Absent,Student387,Doe,Female,1990-02-01,Physics,2.05,Course 3,Computer Science,2,Instructor 3,False
+931,1267,COURSE16,2022-10-08,Absent,Student267,Doe,Male,2001-03-23,Physics,2.92,Course 16,Biology,4,Instructor 16,False
+932,1469,COURSE19,2021-09-27,Absent,Student469,Doe,Female,2001-02-10,Biology,3.68,Course 19,Biology,4,Instructor 19,False
+933,1401,COURSE27,2021-03-15,Present,Student401,Doe,Female,2002-08-10,Computer Science,2.33,Course 27,Biology,2,Instructor 27,True
+934,1229,COURSE42,2023-08-07,Absent,Student229,Doe,Female,1990-03-31,Physics,3.15,Course 42,Biology,3,Instructor 42,False
+935,1180,COURSE48,2023-03-11,Absent,Student180,Doe,Female,1992-07-09,Biology,3.94,Course 48,Computer Science,3,Instructor 48,False
+936,1140,COURSE20,2022-05-17,Present,Student140,Doe,Female,2003-07-23,Physics,2.51,Course 20,Computer Science,1,Instructor 20,True
+937,1313,COURSE1,2024-02-13,Present,Student313,Doe,Male,1998-04-15,Mathematics,3.7,Course 1,Mathematics,2,Instructor 1,True
+938,1444,COURSE4,2023-09-26,Present,Student444,Doe,Female,2002-02-12,Mathematics,2.23,Course 4,Biology,4,Instructor 4,True
+939,1234,COURSE42,2022-05-22,Present,Student234,Doe,Male,1997-10-31,Computer Science,3.77,Course 42,Biology,3,Instructor 42,True
+940,1088,COURSE32,2020-11-22,Absent,Student88,Doe,Female,1995-10-19,Physics,3.16,Course 32,Computer Science,4,Instructor 32,False
+941,1300,COURSE42,2024-12-25,Present,Student300,Doe,Female,1994-04-26,Computer Science,2.28,Course 42,Biology,3,Instructor 42,True
+942,1078,COURSE11,2024-09-01,Absent,Student78,Doe,Female,2003-05-07,Biology,2.91,Course 11,Biology,2,Instructor 11,False
+943,1065,COURSE39,2021-06-10,Present,Student65,Doe,Male,1999-08-28,Computer Science,2.65,Course 39,Physics,2,Instructor 39,True
+944,1373,COURSE24,2023-03-06,Present,Student373,Doe,Male,2003-01-01,Mathematics,2.68,Course 24,Physics,4,Instructor 24,True
+945,1286,COURSE45,2022-04-02,Present,Student286,Doe,Female,1993-05-31,Computer Science,2.52,Course 45,Computer Science,4,Instructor 45,True
+946,1415,COURSE20,2020-06-07,Present,Student415,Doe,Male,1999-06-01,Mathematics,3.78,Course 20,Computer Science,1,Instructor 20,True
+947,1489,COURSE30,2023-03-07,Present,Student489,Doe,Female,1998-08-30,Mathematics,3.53,Course 30,Computer Science,3,Instructor 30,True
+948,1331,COURSE10,2021-09-09,Present,Student331,Doe,Male,2000-01-06,Physics,2.95,Course 10,Biology,3,Instructor 10,True
+949,1049,COURSE22,2022-01-22,Absent,Student49,Doe,Female,2000-08-04,Mathematics,2.21,Course 22,Biology,2,Instructor 22,False
+950,1139,COURSE44,2024-07-06,Present,Student139,Doe,Male,1999-10-05,Mathematics,3.96,Course 44,Mathematics,3,Instructor 44,True
+951,1315,COURSE3,2022-01-13,Absent,Student315,Doe,Female,1996-10-14,Mathematics,3.18,Course 3,Computer Science,2,Instructor 3,False
+952,1189,COURSE49,2020-11-09,Present,Student189,Doe,Female,2005-12-15,Mathematics,3.14,Course 49,Computer Science,4,Instructor 49,True
+953,1395,COURSE7,2022-03-08,Present,Student395,Doe,Male,1993-08-30,Computer Science,3.75,Course 7,Mathematics,4,Instructor 7,True
+954,1191,COURSE38,2024-05-22,Present,Student191,Doe,Female,1994-06-21,Mathematics,2.78,Course 38,Physics,2,Instructor 38,True
+955,1065,COURSE20,2021-10-23,Absent,Student65,Doe,Male,1999-08-28,Computer Science,2.65,Course 20,Computer Science,1,Instructor 20,False
+956,1300,COURSE19,2023-03-24,Absent,Student300,Doe,Female,1994-04-26,Computer Science,2.28,Course 19,Biology,4,Instructor 19,False
+957,1036,COURSE3,2022-07-03,Absent,Student36,Doe,Male,2000-12-03,Physics,2.69,Course 3,Computer Science,2,Instructor 3,False
+958,1146,COURSE49,2024-05-09,Absent,Student146,Doe,Female,2005-05-31,Physics,2.44,Course 49,Computer Science,4,Instructor 49,False
+959,1042,COURSE3,2020-07-24,Present,Student42,Doe,Male,1998-10-20,Mathematics,3.6,Course 3,Computer Science,2,Instructor 3,True
+960,1004,COURSE26,2020-12-20,Present,Student4,Doe,Female,1999-06-08,Computer Science,3.97,Course 26,Biology,2,Instructor 26,True
+961,1226,COURSE36,2024-06-21,Absent,Student226,Doe,Male,1996-07-22,Physics,2.21,Course 36,Computer Science,4,Instructor 36,False
+962,1163,COURSE46,2022-05-31,Absent,Student163,Doe,Male,1990-10-09,Computer Science,2.01,Course 46,Physics,3,Instructor 46,False
+963,1138,COURSE43,2022-05-15,Absent,Student138,Doe,Female,1997-07-24,Mathematics,2.86,Course 43,Physics,3,Instructor 43,False
+964,1465,COURSE49,2022-08-01,Absent,Student465,Doe,Male,1996-12-09,Computer Science,3.82,Course 49,Computer Science,4,Instructor 49,False
+965,1319,COURSE16,2020-12-19,Absent,Student319,Doe,Male,1998-11-14,Computer Science,3.46,Course 16,Biology,4,Instructor 16,False
+966,1238,COURSE38,2020-08-22,Present,Student238,Doe,Male,1999-10-26,Computer Science,2.12,Course 38,Physics,2,Instructor 38,True
+967,1256,COURSE42,2024-12-12,Present,Student256,Doe,Female,2002-04-03,Biology,2.94,Course 42,Biology,3,Instructor 42,True
+968,1280,COURSE28,2020-07-29,Absent,Student280,Doe,Female,1997-06-19,Physics,3.75,Course 28,Physics,1,Instructor 28,False
+969,1474,COURSE22,2022-11-20,Absent,Student474,Doe,Male,1997-04-25,Biology,2.32,Course 22,Biology,2,Instructor 22,False
+970,1489,COURSE39,2024-05-01,Present,Student489,Doe,Female,1998-08-30,Mathematics,3.53,Course 39,Physics,2,Instructor 39,True
+971,1397,COURSE5,2022-07-29,Present,Student397,Doe,Female,1997-03-25,Computer Science,2.42,Course 5,Mathematics,4,Instructor 5,True
+972,1163,COURSE33,2021-07-21,Absent,Student163,Doe,Male,1990-10-09,Computer Science,2.01,Course 33,Biology,4,Instructor 33,False
+973,1260,COURSE24,2023-06-25,Absent,Student260,Doe,Female,1994-01-16,Biology,2.02,Course 24,Physics,4,Instructor 24,False
+974,1110,COURSE30,2024-10-16,Absent,Student110,Doe,Female,1994-06-24,Computer Science,2.85,Course 30,Computer Science,3,Instructor 30,False
+975,1371,COURSE34,2023-05-21,Present,Student371,Doe,Female,1996-03-29,Mathematics,3.19,Course 34,Mathematics,3,Instructor 34,True
+976,1492,COURSE6,2021-06-13,Absent,Student492,Doe,Male,1996-01-21,Biology,3.9,Course 6,Computer Science,2,Instructor 6,False
+977,1153,COURSE21,2021-10-17,Absent,Student153,Doe,Female,1993-11-17,Mathematics,3.92,Course 21,Computer Science,4,Instructor 21,False
+978,1040,COURSE37,2021-05-25,Present,Student40,Doe,Female,2001-03-15,Computer Science,2.42,Course 37,Biology,4,Instructor 37,True
+979,1448,COURSE40,2023-07-06,Present,Student448,Doe,Female,1992-11-26,Computer Science,2.65,Course 40,Physics,2,Instructor 40,True
+980,1472,COURSE47,2023-03-28,Absent,Student472,Doe,Male,2000-07-13,Biology,3.1,Course 47,Mathematics,2,Instructor 47,False
+981,1124,COURSE22,2023-10-14,Present,Student124,Doe,Female,1994-11-03,Computer Science,2.93,Course 22,Biology,2,Instructor 22,True
+982,1319,COURSE49,2023-11-09,Absent,Student319,Doe,Male,1998-11-14,Computer Science,3.46,Course 49,Computer Science,4,Instructor 49,False
+983,1273,COURSE20,2022-11-30,Present,Student273,Doe,Male,1992-09-27,Computer Science,3.25,Course 20,Computer Science,1,Instructor 20,True
+984,1161,COURSE12,2020-07-30,Absent,Student161,Doe,Male,2005-02-26,Computer Science,2.53,Course 12,Mathematics,1,Instructor 12,False
+985,1141,COURSE35,2020-07-14,Present,Student141,Doe,Male,2001-12-17,Mathematics,2.51,Course 35,Computer Science,4,Instructor 35,True
+986,1112,COURSE50,2023-08-07,Present,Student112,Doe,Male,1991-09-01,Physics,3.66,Course 50,Computer Science,4,Instructor 50,True
+987,1371,COURSE43,2023-03-08,Absent,Student371,Doe,Female,1996-03-29,Mathematics,3.19,Course 43,Physics,3,Instructor 43,False
+988,1403,COURSE21,2022-07-31,Absent,Student403,Doe,Male,1997-05-23,Mathematics,3.51,Course 21,Computer Science,4,Instructor 21,False
+989,1082,COURSE8,2024-09-18,Absent,Student82,Doe,Male,1994-03-19,Physics,2.97,Course 8,Physics,3,Instructor 8,False
+990,1309,COURSE26,2021-03-27,Absent,Student309,Doe,Female,1999-02-15,Biology,3.56,Course 26,Biology,2,Instructor 26,False
+991,1495,COURSE34,2022-01-15,Present,Student495,Doe,Female,1990-01-28,Computer Science,2.49,Course 34,Mathematics,3,Instructor 34,True
+992,1440,COURSE18,2020-08-12,Present,Student440,Doe,Female,2005-09-18,Computer Science,2.68,Course 18,Physics,3,Instructor 18,True
+993,1080,COURSE4,2020-09-14,Present,Student80,Doe,Male,1994-07-28,Mathematics,2.19,Course 4,Biology,4,Instructor 4,True
+994,1142,COURSE17,2022-07-17,Absent,Student142,Doe,Male,1996-04-02,Biology,2.39,Course 17,Physics,1,Instructor 17,False
+995,1396,COURSE36,2023-12-05,Present,Student396,Doe,Female,1996-08-17,Mathematics,2.65,Course 36,Computer Science,4,Instructor 36,True
+996,1399,COURSE20,2023-10-28,Present,Student399,Doe,Female,2004-07-08,Computer Science,3.85,Course 20,Computer Science,1,Instructor 20,True
+997,1279,COURSE13,2023-09-30,Absent,Student279,Doe,Male,1997-03-31,Mathematics,3.58,Course 13,Physics,2,Instructor 13,False
+998,1173,COURSE15,2022-06-15,Absent,Student173,Doe,Female,1998-10-20,Computer Science,3.03,Course 15,Biology,1,Instructor 15,False
+999,1121,COURSE43,2020-11-21,Absent,Student121,Doe,Male,1990-02-27,Biology,3.77,Course 43,Physics,3,Instructor 43,False
+1000,1355,COURSE8,2024-07-29,Present,Student355,Doe,Female,2002-03-27,Computer Science,2.88,Course 8,Physics,3,Instructor 8,True
